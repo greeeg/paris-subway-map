@@ -1,0 +1,4658 @@
+{
+  "2035-2154": {
+    "id": "2035-2154",
+    "name": "Chateau de Vincennes",
+    "geolocation": [
+      48.84432514436857,
+      2.440552346211822
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2067-2116": {
+    "id": "2067-2116",
+    "name": "Berault",
+    "geolocation": [
+      48.84536875015732,
+      2.428244509620486
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1725-2470": {
+    "id": "1725-2470",
+    "name": "Saint-Mande",
+    "geolocation": [
+      48.84623825662077,
+      2.418999828109256
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1751-2429": {
+    "id": "1751-2429",
+    "name": "Porte de Vincennes",
+    "geolocation": [
+      48.847016518419125,
+      2.410816882334764
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1832-2371": {
+    "id": "1832-2371",
+    "name": "Nation",
+    "geolocation": [
+      48.84811123157566,
+      2.398004012797743
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1698-2443": {
+    "id": "1698-2443",
+    "name": "Reuilly-Diderot",
+    "geolocation": [
+      48.8473528769588,
+      2.385842540040244
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1955-2210": {
+    "id": "1955-2210",
+    "name": "Gare de Lyon",
+    "geolocation": [
+      48.84555978708341,
+      2.37344920496318
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2062-2111": {
+    "id": "2062-2111",
+    "name": "Bastille",
+    "geolocation": [
+      48.85297567465423,
+      2.369218824443343
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1642-2522": {
+    "id": "1642-2522",
+    "name": "Saint-Paul (Le Marais)",
+    "geolocation": [
+      48.85513451823504,
+      2.361334339067663
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1892-2288": {
+    "id": "1892-2288",
+    "name": "Hotel de Ville",
+    "geolocation": [
+      48.857355927169515,
+      2.352073566858718
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2036-2155": {
+    "id": "2036-2155",
+    "name": "Chatelet",
+    "geolocation": [
+      48.85856967247972,
+      2.347933245835307
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1864-2331": {
+    "id": "1864-2331",
+    "name": "Louvre-Rivoli",
+    "geolocation": [
+      48.86087985759375,
+      2.340973275817903
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1773-2383": {
+    "id": "1773-2383",
+    "name": "Palais-Royal (Musee du Louvre)",
+    "geolocation": [
+      48.8623718215243,
+      2.33657360073643
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1688-2498": {
+    "id": "1688-2498",
+    "name": "Tuileries",
+    "geolocation": [
+      48.86478016250008,
+      2.329094954429427
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1980-2170": {
+    "id": "1980-2170",
+    "name": "Concorde",
+    "geolocation": [
+      48.86567809641779,
+      2.321193771801867
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2083-2544": {
+    "id": "2083-2544",
+    "name": "Champs-Elysees-Clemenceau",
+    "geolocation": [
+      48.867744026068706,
+      2.314122780374141
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1945-2200": {
+    "id": "1945-2200",
+    "name": "Franklin-Roosevelt",
+    "geolocation": [
+      48.869010427937624,
+      2.310253180896026
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1961-2216": {
+    "id": "1961-2216",
+    "name": "George V",
+    "geolocation": [
+      48.87204561942636,
+      2.300769185644953
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2028-2147": {
+    "id": "2028-2147",
+    "name": "Charles de Gaulle-Etoile",
+    "geolocation": [
+      48.8739310942679,
+      2.295127251650101
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2048-2098": {
+    "id": "2048-2098",
+    "name": "Argentine",
+    "geolocation": [
+      48.87567248598795,
+      2.289444164481448
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1755-2433": {
+    "id": "1755-2433",
+    "name": "Porte Maillot",
+    "geolocation": [
+      48.87800617627899,
+      2.282465640001332
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1856-2323": {
+    "id": "1856-2323",
+    "name": "Les Sablons (Jardin d'acclimatation)",
+    "geolocation": [
+      48.88129918549113,
+      2.271915176017791
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1803-2342": {
+    "id": "1803-2342",
+    "name": "Pont de Neuilly",
+    "geolocation": [
+      48.88550610941816,
+      2.258527470197358
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1933-2258": {
+    "id": "1933-2258",
+    "name": "Esplanade de la Defense",
+    "geolocation": [
+      48.88835806016618,
+      2.249937212862802
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1887-2283": {
+    "id": "1887-2283",
+    "name": "La Defense (Grande Arche)",
+    "geolocation": [
+      48.891826754836515,
+      2.237992043215619
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1833-2338": {
+    "id": "1833-2338",
+    "name": "Nation",
+    "geolocation": [
+      48.84942390087223,
+      2.397025038299357
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2058-2107": {
+    "id": "2058-2107",
+    "name": "Avron",
+    "geolocation": [
+      48.851193819213286,
+      2.398239140823123
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2041-2160": {
+    "id": "2041-2160",
+    "name": "Alexandre-Dumas",
+    "geolocation": [
+      48.856426348325236,
+      2.394554257654992
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1788-2398": {
+    "id": "1788-2398",
+    "name": "Philippe Auguste",
+    "geolocation": [
+      48.85837884146994,
+      2.3897347327397043
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1784-2394": {
+    "id": "1784-2394",
+    "name": "Pere-Lachaise",
+    "geolocation": [
+      48.86316120506396,
+      2.387260400184353
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1812-2351": {
+    "id": "1812-2351",
+    "name": "Menilmontant",
+    "geolocation": [
+      48.865705787623,
+      2.384429375163205
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2079-2128": {
+    "id": "2079-2128",
+    "name": "Couronnes",
+    "geolocation": [
+      48.86932916949657,
+      2.3805363661617243
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2087-2548": {
+    "id": "2087-2548",
+    "name": "Belleville",
+    "geolocation": [
+      48.87228732058717,
+      2.376737677322468
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1978-2168": {
+    "id": "1978-2168",
+    "name": "Colonel Fabien",
+    "geolocation": [
+      48.87818498179219,
+      2.370174546636358
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1900-2296": {
+    "id": "1900-2296",
+    "name": "Jaures",
+    "geolocation": [
+      48.88276854674882,
+      2.3699457989907398
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1674-2484": {
+    "id": "1674-2484",
+    "name": "Stalingrad",
+    "geolocation": [
+      48.88418929420877,
+      2.367030441974567
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1910-2235": {
+    "id": "1910-2235",
+    "name": "La Chapelle",
+    "geolocation": [
+      48.884388698358165,
+      2.359276564276729
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2086-2547": {
+    "id": "2086-2547",
+    "name": "Barbes-Rochechouart",
+    "geolocation": [
+      48.88368010927906,
+      2.34953280365193
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2046-2096": {
+    "id": "2046-2096",
+    "name": "Anvers",
+    "geolocation": [
+      48.882871690180586,
+      2.344163572800391
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1791-2401": {
+    "id": "1791-2401",
+    "name": "Pigalle",
+    "geolocation": [
+      48.88242252841757,
+      2.337254682101535
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2071-2120": {
+    "id": "2071-2120",
+    "name": "Blanche",
+    "geolocation": [
+      48.88377051883179,
+      2.332485148274094
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1795-2405": {
+    "id": "1795-2405",
+    "name": "Place de Clichy",
+    "geolocation": [
+      48.88345565159549,
+      2.327374993410355
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1707-2452": {
+    "id": "1707-2452",
+    "name": "Rome",
+    "geolocation": [
+      48.88207083393704,
+      2.320398339309986
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1629-2509": {
+    "id": "1629-2509",
+    "name": "Villiers",
+    "geolocation": [
+      48.88132429394468,
+      2.316596761508817
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1822-2361": {
+    "id": "1822-2361",
+    "name": "Monceau",
+    "geolocation": [
+      48.88057689074842,
+      2.309415946164807
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1989-2179": {
+    "id": "1989-2179",
+    "name": "Courcelles",
+    "geolocation": [
+      48.87927215163157,
+      2.303298546682486
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1684-2494": {
+    "id": "1684-2494",
+    "name": "Ternes",
+    "geolocation": [
+      48.87822804050767,
+      2.298121432582184
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2029-2148": {
+    "id": "2029-2148",
+    "name": "Charles de Gaulle-Etoile",
+    "geolocation": [
+      48.87399384072475,
+      2.2946639618259113
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1694-2504": {
+    "id": "1694-2504",
+    "name": "Victor Hugo",
+    "geolocation": [
+      48.869864912484076,
+      2.285226207250439
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1736-2414": {
+    "id": "1736-2414",
+    "name": "Porte Dauphine (Marechal de Lattre de Tassigny)",
+    "geolocation": [
+      48.87179221641751,
+      2.27486996119569
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1949-2204": {
+    "id": "1949-2204",
+    "name": "Gallieni (Parc de Bagnolet)",
+    "geolocation": [
+      48.86326252650054,
+      2.415975368499958
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1737-2415": {
+    "id": "1737-2415",
+    "name": "Porte de Bagnolet",
+    "geolocation": [
+      48.864336535483645,
+      2.408825376037728
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1950-2205": {
+    "id": "1950-2205",
+    "name": "Gambetta",
+    "geolocation": [
+      48.864782700687876,
+      2.398445833771861
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1785-2395": {
+    "id": "1785-2395",
+    "name": "Pere-Lachaise",
+    "geolocation": [
+      48.862945661667425,
+      2.38689240454308
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1728-2471": {
+    "id": "1728-2471",
+    "name": "Rue Saint-Maur",
+    "geolocation": [
+      48.86408940574645,
+      2.380899788552119
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1779-2389": {
+    "id": "1779-2389",
+    "name": "Parmentier",
+    "geolocation": [
+      48.86525985667316,
+      2.3747570817167682
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1766-2376": {
+    "id": "1766-2376",
+    "name": "Republique",
+    "geolocation": [
+      48.86725794359829,
+      2.364037303639054
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1683-2493": {
+    "id": "1683-2493",
+    "name": "Temple",
+    "geolocation": [
+      48.866764167814516,
+      2.361571327032731
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2050-2099": {
+    "id": "2050-2099",
+    "name": "Arts-et-Metiers",
+    "geolocation": [
+      48.865551863634785,
+      2.356108155120312
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1765-2375": {
+    "id": "1765-2375",
+    "name": "Reaumur-Sebastopol",
+    "geolocation": [
+      48.86628035856129,
+      2.352484796837845
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1662-2542": {
+    "id": "1662-2542",
+    "name": "Sentier",
+    "geolocation": [
+      48.8673503814313,
+      2.34756723541508
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2007-2196": {
+    "id": "2007-2196",
+    "name": "Bourse",
+    "geolocation": [
+      48.86876179259638,
+      2.3406741288121
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1760-2438": {
+    "id": "1760-2438",
+    "name": "Quatre Septembre",
+    "geolocation": [
+      48.86966057219203,
+      2.336328281641711
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1846-2313": {
+    "id": "1846-2313",
+    "name": "Opera",
+    "geolocation": [
+      48.870720976292084,
+      2.332254743572958
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1889-2285": {
+    "id": "1889-2285",
+    "name": "Havre-Caumartin",
+    "geolocation": [
+      48.8734618906704,
+      2.328480484473476
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1722-2467": {
+    "id": "1722-2467",
+    "name": "Saint-Lazare",
+    "geolocation": [
+      48.87568150641968,
+      2.325591584819959
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1935-2260": {
+    "id": "1935-2260",
+    "name": "Europe",
+    "geolocation": [
+      48.87906043921274,
+      2.322974632405893
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1630-2510": {
+    "id": "1630-2510",
+    "name": "Villiers",
+    "geolocation": [
+      48.88140510041144,
+      2.316147050907411
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1881-2277": {
+    "id": "1881-2277",
+    "name": "Malesherbes",
+    "geolocation": [
+      48.88253647289218,
+      2.311009243005514
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1634-2514": {
+    "id": "1634-2514",
+    "name": "Wagram",
+    "geolocation": [
+      48.883712476037346,
+      2.305557757514303
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1786-2396": {
+    "id": "1786-2396",
+    "name": "Pereire",
+    "geolocation": [
+      48.8850310612536,
+      2.2971351115061642
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1738-2416": {
+    "id": "1738-2416",
+    "name": "Porte de Champerret",
+    "geolocation": [
+      48.88573915969202,
+      2.291860620675534
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1862-2329": {
+    "id": "1862-2329",
+    "name": "Louise Michel",
+    "geolocation": [
+      48.889269622246026,
+      2.288055124803903
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2044-2163": {
+    "id": "2044-2163",
+    "name": "Anatole-France",
+    "geolocation": [
+      48.892018626328884,
+      2.285517444794484
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1802-2341": {
+    "id": "1802-2341",
+    "name": "Pont de Levallois-Becon",
+    "geolocation": [
+      48.89730990517954,
+      2.2807686428069
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1752-2430": {
+    "id": "1752-2430",
+    "name": "Porte des Lilas",
+    "geolocation": [
+      48.8769382235089,
+      2.406376566929781
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1718-2463": {
+    "id": "1718-2463",
+    "name": "Saint-Fargeau",
+    "geolocation": [
+      48.871699810971116,
+      2.404298724202182
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1783-2393": {
+    "id": "1783-2393",
+    "name": "Pelleport",
+    "geolocation": [
+      48.86822334760734,
+      2.401324380544102
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1659-2539": {
+    "id": "1659-2539",
+    "name": "Gambetta",
+    "geolocation": [
+      48.86503429801815,
+      2.398541486912242
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1742-2420": {
+    "id": "1742-2420",
+    "name": "Porte de Clignancourt",
+    "geolocation": [
+      48.89797017040717,
+      2.34398838343329
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1668-2478": {
+    "id": "1668-2478",
+    "name": "Simplon",
+    "geolocation": [
+      48.89412344466592,
+      2.347245444443029
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1655-2535": {
+    "id": "1655-2535",
+    "name": "Marcadet-Poissonniers",
+    "geolocation": [
+      48.891543930630554,
+      2.349371115381911
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2033-2152": {
+    "id": "2033-2152",
+    "name": "Chateau Rouge",
+    "geolocation": [
+      48.887086283050444,
+      2.349370073251378
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2061-2110": {
+    "id": "2061-2110",
+    "name": "Barbes-Rochechouart",
+    "geolocation": [
+      48.883931769934414,
+      2.349355708599646
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1957-2212": {
+    "id": "1957-2212",
+    "name": "Gare du Nord",
+    "geolocation": [
+      48.87974306422535,
+      2.354600810472233
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1953-2208": {
+    "id": "1953-2208",
+    "name": "Gare de l'Est (Verdun)",
+    "geolocation": [
+      48.87669583602489,
+      2.3579925105504023
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2034-2153": {
+    "id": "2034-2153",
+    "name": "Chateau d'Eau",
+    "geolocation": [
+      48.8724541509199,
+      2.35605616813029
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1677-2487": {
+    "id": "1677-2487",
+    "name": "Strasbourg-Saint-Denis",
+    "geolocation": [
+      48.86963236518746,
+      2.35450206308924
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1764-2374": {
+    "id": "1764-2374",
+    "name": "Reaumur-Sebastopol",
+    "geolocation": [
+      48.86604666963103,
+      2.352620954015186
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1934-2259": {
+    "id": "1934-2259",
+    "name": "Etienne Marcel",
+    "geolocation": [
+      48.86371036646956,
+      2.348983196127101
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1855-2322": {
+    "id": "1855-2322",
+    "name": "Les Halles",
+    "geolocation": [
+      48.862011970720516,
+      2.346476451906206
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1964-2219": {
+    "id": "1964-2219",
+    "name": "Chatelet",
+    "geolocation": [
+      48.85830005598138,
+      2.347865087577108
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1975-2230": {
+    "id": "1975-2230",
+    "name": "Cite",
+    "geolocation": [
+      48.85568485028629,
+      2.3462029295287152
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1729-2472": {
+    "id": "1729-2472",
+    "name": "Saint-Michel",
+    "geolocation": [
+      48.853599907885794,
+      2.343996241094012
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1845-2312": {
+    "id": "1845-2312",
+    "name": "Odeon",
+    "geolocation": [
+      48.85219804523044,
+      2.33878000304498
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1721-2466": {
+    "id": "1721-2466",
+    "name": "Saint-Germain des Pres",
+    "geolocation": [
+      48.85344723773834,
+      2.333046326044867
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1733-2411": {
+    "id": "1733-2411",
+    "name": "Saint-Sulpice",
+    "geolocation": [
+      48.8511463550549,
+      2.330962856366464
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1731-2442": {
+    "id": "1731-2442",
+    "name": "Saint-Placide",
+    "geolocation": [
+      48.84701184016864,
+      2.327055111355132
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1824-2363": {
+    "id": "1824-2363",
+    "name": "Montparnasse-Bienvenue",
+    "geolocation": [
+      48.844189508526796,
+      2.324441232433701
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1692-2502": {
+    "id": "1692-2502",
+    "name": "Vavin",
+    "geolocation": [
+      48.84205985758205,
+      2.328867050437212
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1645-2525": {
+    "id": "1645-2525",
+    "name": "Raspail",
+    "geolocation": [
+      48.83915698149679,
+      2.330474151162931
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1996-2185": {
+    "id": "1996-2185",
+    "name": "Denfert-Rochereau",
+    "geolocation": [
+      48.83427681284463,
+      2.332203797304786
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1828-2367": {
+    "id": "1828-2367",
+    "name": "Mouton-Duvernet",
+    "geolocation": [
+      48.832191599269656,
+      2.33040699262932
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2040-2159": {
+    "id": "2040-2159",
+    "name": "Alesia",
+    "geolocation": [
+      48.82806601968645,
+      2.326827420050836
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1735-2413": {
+    "id": "1735-2413",
+    "name": "Porte d'Orleans (General Leclerc)",
+    "geolocation": [
+      48.822817060234954,
+      2.325072625148001
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "4028973-4028974": {
+    "id": "4028973-4028974",
+    "name": "Mairie de Montrouge",
+    "geolocation": [
+      48.81846633711334,
+      2.319643218617825
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2089-2550": {
+    "id": "2089-2550",
+    "name": "Bobigny-Pablo-Picasso",
+    "geolocation": [
+      48.907147312551565,
+      2.44945750453114
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2072-2121": {
+    "id": "2072-2121",
+    "name": "Bobigny-Pantin (Raymond Queneau)",
+    "geolocation": [
+      48.895799232549,
+      2.424857298397594
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1932-2257": {
+    "id": "1932-2257",
+    "name": "Eglise de Pantin",
+    "geolocation": [
+      48.89363252797401,
+      2.41290026603005
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1891-2287": {
+    "id": "1891-2287",
+    "name": "Hoche",
+    "geolocation": [
+      48.891499383764256,
+      2.403124960656076
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1746-2424": {
+    "id": "1746-2424",
+    "name": "Porte de Pantin",
+    "geolocation": [
+      48.888583980971895,
+      2.392422875718541
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1772-2382": {
+    "id": "1772-2382",
+    "name": "Ourcq",
+    "geolocation": [
+      48.886923877470686,
+      2.386656434403455
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1922-2247": {
+    "id": "1922-2247",
+    "name": "Laumiere",
+    "geolocation": [
+      48.8849316105461,
+      2.379091246899838
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1901-2297": {
+    "id": "1901-2297",
+    "name": "Jaures",
+    "geolocation": [
+      48.88287621621258,
+      2.370586336165422
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1675-2485": {
+    "id": "1675-2485",
+    "name": "Stalingrad",
+    "geolocation": [
+      48.884153263123864,
+      2.367357477466386
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1958-2213": {
+    "id": "1958-2213",
+    "name": "Gare du Nord",
+    "geolocation": [
+      48.87938330261579,
+      2.356372081359306
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2076-2125": {
+    "id": "2076-2125",
+    "name": "Gare de l'Est (Verdun)",
+    "geolocation": [
+      48.87681262539273,
+      2.358251440082915
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1898-2294": {
+    "id": "1898-2294",
+    "name": "Jacques-Bonsergent",
+    "geolocation": [
+      48.87070082326957,
+      2.360578635587277
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1767-2377": {
+    "id": "1767-2377",
+    "name": "Republique",
+    "geolocation": [
+      48.86761748653104,
+      2.363819521433165
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1843-2310": {
+    "id": "1843-2310",
+    "name": "Oberkampf",
+    "geolocation": [
+      48.86490241594044,
+      2.367537013481096
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1700-2445": {
+    "id": "1700-2445",
+    "name": "Richard-Lenoir",
+    "geolocation": [
+      48.860488412845775,
+      2.371920437502139
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2008-2164": {
+    "id": "2008-2164",
+    "name": "Breguet-Sabin",
+    "geolocation": [
+      48.856803948960916,
+      2.37059681963187
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2063-2112": {
+    "id": "2063-2112",
+    "name": "Bastille",
+    "geolocation": [
+      48.85338911229207,
+      2.369164602208766
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1759-2437": {
+    "id": "1759-2437",
+    "name": "Quai de la Rapee",
+    "geolocation": [
+      48.84596603240645,
+      2.366913179738311
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1951-2206": {
+    "id": "1951-2206",
+    "name": "Gare d'Austerlitz",
+    "geolocation": [
+      48.84341422414371,
+      2.364188392867642
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1641-2521": {
+    "id": "1641-2521",
+    "name": "Saint-Marcel",
+    "geolocation": [
+      48.838516743515164,
+      2.360727550361784
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2017-2136": {
+    "id": "2017-2136",
+    "name": "Campo-Formio",
+    "geolocation": [
+      48.835551216675434,
+      2.358752095191401
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1793-2403": {
+    "id": "1793-2403",
+    "name": "Place d'Italie",
+    "geolocation": [
+      48.8312826555064,
+      2.355455870364506
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1834-2339": {
+    "id": "1834-2339",
+    "name": "Nation",
+    "geolocation": [
+      48.8474552623419,
+      2.397771743610895
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1789-2399": {
+    "id": "1789-2399",
+    "name": "Picpus",
+    "geolocation": [
+      48.84532311461395,
+      2.401786313760686
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2065-2114": {
+    "id": "2065-2114",
+    "name": "Bel-Air",
+    "geolocation": [
+      48.84143200664826,
+      2.400869193380093
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2081-2094": {
+    "id": "2081-2094",
+    "name": "Daumesnil (Felix Eboue)",
+    "geolocation": [
+      48.83937646312499,
+      2.395788060415649
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2082-2543": {
+    "id": "2082-2543",
+    "name": "Dugommier",
+    "geolocation": [
+      48.83887615167852,
+      2.389347387570293
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2068-2117": {
+    "id": "2068-2117",
+    "name": "Bercy",
+    "geolocation": [
+      48.84019224440348,
+      2.379477257266058
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1644-2524": {
+    "id": "1644-2524",
+    "name": "Quai de la Gare",
+    "geolocation": [
+      48.83761467578531,
+      2.373852115680497
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1974-2229": {
+    "id": "1974-2229",
+    "name": "Chevaleret",
+    "geolocation": [
+      48.83496497071995,
+      2.368091345879397
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1836-2303": {
+    "id": "1836-2303",
+    "name": "Nationale",
+    "geolocation": [
+      48.832881288678834,
+      2.361909408016197
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1794-2404": {
+    "id": "1794-2404",
+    "name": "Place d'Italie",
+    "geolocation": [
+      48.831111838257115,
+      2.355796145713064
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1987-2177": {
+    "id": "1987-2177",
+    "name": "Corvisart",
+    "geolocation": [
+      48.829863252112794,
+      2.3506227279320893
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1962-2217": {
+    "id": "1962-2217",
+    "name": "Glaciere",
+    "geolocation": [
+      48.8312479519874,
+      2.3431220758229863
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1640-2520": {
+    "id": "1640-2520",
+    "name": "Saint-Jacques",
+    "geolocation": [
+      48.83299169177581,
+      2.336682896644349
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1997-2186": {
+    "id": "1997-2186",
+    "name": "Denfert-Rochereau",
+    "geolocation": [
+      48.833998236748336,
+      2.3332385011588013
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1763-2409": {
+    "id": "1763-2409",
+    "name": "Raspail",
+    "geolocation": [
+      48.838878378565504,
+      2.330678419288263
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1930-2255": {
+    "id": "1930-2255",
+    "name": "Edgar-Quinet",
+    "geolocation": [
+      48.84056772620437,
+      2.326402815222764
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1825-2364": {
+    "id": "1825-2364",
+    "name": "Montparnasse-Bienvenue",
+    "geolocation": [
+      48.84187033630407,
+      2.321228374003564
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1781-2391": {
+    "id": "1781-2391",
+    "name": "Pasteur",
+    "geolocation": [
+      48.842012804057696,
+      2.31329004383549
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1665-2475": {
+    "id": "1665-2475",
+    "name": "Sevres-Lecourbe",
+    "geolocation": [
+      48.84499615085685,
+      2.310864830044154
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2016-2135": {
+    "id": "2016-2135",
+    "name": "Cambronne",
+    "geolocation": [
+      48.8476991081708,
+      2.302039143669263
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1657-2537": {
+    "id": "1657-2537",
+    "name": "La Motte-Picquet-Grenelle",
+    "geolocation": [
+      48.849018928349764,
+      2.297762160707931
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1926-2251": {
+    "id": "1926-2251",
+    "name": "Dupleix",
+    "geolocation": [
+      48.85039257831968,
+      2.293648336230538
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2069-2118": {
+    "id": "2069-2118",
+    "name": "Bir-Hakeim (Grenelle)",
+    "geolocation": [
+      48.854327218552356,
+      2.2888101037361173
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1780-2390": {
+    "id": "1780-2390",
+    "name": "Passy",
+    "geolocation": [
+      48.857534382513876,
+      2.28559270581709
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1687-2497": {
+    "id": "1687-2497",
+    "name": "Trocadero",
+    "geolocation": [
+      48.862666905879294,
+      2.287263061553262
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2073-2122": {
+    "id": "2073-2122",
+    "name": "Boissiere",
+    "geolocation": [
+      48.86685615476034,
+      2.290038073445008
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1909-2234": {
+    "id": "1909-2234",
+    "name": "Kleber",
+    "geolocation": [
+      48.87130614908782,
+      2.293331020896217
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2030-2149": {
+    "id": "2030-2149",
+    "name": "Charles de Gaulle-Etoile",
+    "geolocation": [
+      48.87371526831065,
+      2.294759562849878
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1911-2236": {
+    "id": "1911-2236",
+    "name": "La Courneuve-8-Mai-1945",
+    "geolocation": [
+      48.92051450668569,
+      2.410225779120198
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1944-2199": {
+    "id": "1944-2199",
+    "name": "Fort d'Aubervilliers",
+    "geolocation": [
+      48.91405674514657,
+      2.403576334511007
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2055-2104": {
+    "id": "2055-2104",
+    "name": "Aubervilliers Pantin (4 Chemins)",
+    "geolocation": [
+      48.903898047529474,
+      2.392480078672474
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1744-2422": {
+    "id": "1744-2422",
+    "name": "Porte de la Villette",
+    "geolocation": [
+      48.89752915689145,
+      2.385644230127304
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1985-2175": {
+    "id": "1985-2175",
+    "name": "Corentin-Cariou",
+    "geolocation": [
+      48.89468154198812,
+      2.382302193974242
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2080-2093": {
+    "id": "2080-2093",
+    "name": "Crimee",
+    "geolocation": [
+      48.89028877504466,
+      2.376778648925364
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1703-2448": {
+    "id": "1703-2448",
+    "name": "Riquet",
+    "geolocation": [
+      48.8883932319013,
+      2.374433108884994
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1676-2486": {
+    "id": "1676-2486",
+    "name": "Stalingrad",
+    "geolocation": [
+      48.88407198636439,
+      2.368870062777794
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1860-2327": {
+    "id": "1860-2327",
+    "name": "Louis Blanc",
+    "geolocation": [
+      48.88090042815109,
+      2.365107218264337
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2085-2546": {
+    "id": "2085-2546",
+    "name": "Chateau Landon",
+    "geolocation": [
+      48.87845656683119,
+      2.362053716248899
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1954-2209": {
+    "id": "1954-2209",
+    "name": "Gare de l'Est (Verdun)",
+    "geolocation": [
+      48.8764170528791,
+      2.358987046456327
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1800-2373": {
+    "id": "1800-2373",
+    "name": "Poissonniere",
+    "geolocation": [
+      48.877353095288015,
+      2.349381423952599
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2015-2134": {
+    "id": "2015-2134",
+    "name": "Cadet",
+    "geolocation": [
+      48.875825718038186,
+      2.343345124573273
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1849-2316": {
+    "id": "1849-2316",
+    "name": "Le Peletier",
+    "geolocation": [
+      48.87496305802612,
+      2.340156790849205
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1971-2226": {
+    "id": "1971-2226",
+    "name": "Chaussee d'Antin (La Fayette)",
+    "geolocation": [
+      48.872985824665165,
+      2.33342622405285
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1847-2314": {
+    "id": "1847-2314",
+    "name": "Opera",
+    "geolocation": [
+      48.870559216544876,
+      2.332554482049589
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1757-2435": {
+    "id": "1757-2435",
+    "name": "Pyramides",
+    "geolocation": [
+      48.86649698703855,
+      2.334094215259097
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1774-2384": {
+    "id": "1774-2384",
+    "name": "Palais-Royal (Musee du Louvre)",
+    "geolocation": [
+      48.86338738506552,
+      2.335483836772368
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1806-2345": {
+    "id": "1806-2345",
+    "name": "Pont Neuf",
+    "geolocation": [
+      48.85853410228574,
+      2.342117238665998
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1966-2221": {
+    "id": "1966-2221",
+    "name": "Chatelet",
+    "geolocation": [
+      48.85720364550444,
+      2.34722471105584
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1805-2344": {
+    "id": "1805-2344",
+    "name": "Pont Marie (Cite des Arts)",
+    "geolocation": [
+      48.85346358569476,
+      2.357383972809163
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1681-2491": {
+    "id": "1681-2491",
+    "name": "Sully-Morland",
+    "geolocation": [
+      48.85079359474211,
+      2.361236993714298
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1907-2232": {
+    "id": "1907-2232",
+    "name": "Jussieu",
+    "geolocation": [
+      48.8459684322046,
+      2.354807392694218
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1649-2529": {
+    "id": "1649-2529",
+    "name": "Place Monge (Jardin des Plantes)",
+    "geolocation": [
+      48.843164692766834,
+      2.352110362415096
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2020-2139": {
+    "id": "2020-2139",
+    "name": "Censier-Daubenton",
+    "geolocation": [
+      48.840594300001605,
+      2.351755612946688
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1854-2321": {
+    "id": "1854-2321",
+    "name": "Les Gobelins",
+    "geolocation": [
+      48.83612743975252,
+      2.352081117835573
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1648-2528": {
+    "id": "1648-2528",
+    "name": "Place d'Italie",
+    "geolocation": [
+      48.831552302643125,
+      2.355333443219045
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1685-2495": {
+    "id": "1685-2495",
+    "name": "Tolbiac",
+    "geolocation": [
+      48.82615945391136,
+      2.357019466189125
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1876-2272": {
+    "id": "1876-2272",
+    "name": "Maison Blanche",
+    "geolocation": [
+      48.82287877506322,
+      2.358079894290851
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1808-2347": {
+    "id": "1808-2347",
+    "name": "Porte d'Italie",
+    "geolocation": [
+      48.8187170251155,
+      2.360500832805366
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1740-2418": {
+    "id": "1740-2418",
+    "name": "Porte de Choisy",
+    "geolocation": [
+      48.81990244616168,
+      2.364965598290819
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1734-2412": {
+    "id": "1734-2412",
+    "name": "Porte d'Ivry",
+    "geolocation": [
+      48.82135736230755,
+      2.369308237223248
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1790-2400": {
+    "id": "1790-2400",
+    "name": "Pierre et Marie Curie",
+    "geolocation": [
+      48.81591718160038,
+      2.377878816483871
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1871-2301": {
+    "id": "1871-2301",
+    "name": "Mairie d'Ivry",
+    "geolocation": [
+      48.81121453549021,
+      2.383508928732683
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1925-2250": {
+    "id": "1925-2250",
+    "name": "Le Kremlin-Bicetre",
+    "geolocation": [
+      48.810385125129486,
+      2.361830683091131
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1639-2519": {
+    "id": "1639-2519",
+    "name": "Villejuif-Leo Lagrange",
+    "geolocation": [
+      48.80376966328267,
+      2.363909306389043
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1696-2506": {
+    "id": "1696-2506",
+    "name": "Villejuif-Paul Vaillant Couturier (Hopital Paul Brousse)",
+    "geolocation": [
+      48.79599413239317,
+      2.36823145191568
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1695-2505": {
+    "id": "1695-2505",
+    "name": "Villejuif-Louis Aragon",
+    "geolocation": [
+      48.786638011119834,
+      2.367110527381649
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1756-2434": {
+    "id": "1756-2434",
+    "name": "Pre-Saint-Gervais",
+    "geolocation": [
+      48.88015993211241,
+      2.3985866218697662
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1635-": {
+    "id": "1635-",
+    "name": "Danube",
+    "geolocation": [
+      48.88195101817822,
+      2.393260675857387
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2002-2191": {
+    "id": "2002-2191",
+    "name": "Botzaris",
+    "geolocation": [
+      48.87960708893313,
+      2.389415569653207
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2013-2132": {
+    "id": "2013-2132",
+    "name": "Buttes-Chaumont",
+    "geolocation": [
+      48.877803956007845,
+      2.381211099735988
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2075-2124": {
+    "id": "2075-2124",
+    "name": "Bolivar",
+    "geolocation": [
+      48.880790122828465,
+      2.374155126662647
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1902-2298": {
+    "id": "1902-2298",
+    "name": "Jaures",
+    "geolocation": [
+      48.882328024919246,
+      2.370476968769921
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1861-2328": {
+    "id": "1861-2328",
+    "name": "Louis Blanc",
+    "geolocation": [
+      48.8814934288588,
+      2.365775242349614
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "-1797": {
+    "id": "-1797",
+    "name": "Place des Fetes",
+    "geolocation": [
+      48.8772239477293,
+      2.392765050250897
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343334-3343335": {
+    "id": "3343334-3343335",
+    "name": "Balard",
+    "geolocation": [
+      48.836814988805976,
+      2.2786833464502703
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343336-3343337": {
+    "id": "3343336-3343337",
+    "name": "Lourmel",
+    "geolocation": [
+      48.83866812903008,
+      2.282248488384098
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343338-3343339": {
+    "id": "3343338-3343339",
+    "name": "Boucicaut",
+    "geolocation": [
+      48.84102535532167,
+      2.287923867330867
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343746-3343752": {
+    "id": "3343746-3343752",
+    "name": "Felix Faure",
+    "geolocation": [
+      48.84282456767407,
+      2.292224966220515
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343753-3343754": {
+    "id": "3343753-3343754",
+    "name": "Commerce",
+    "geolocation": [
+      48.84461367199405,
+      2.293802980169146
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343755-3343756": {
+    "id": "3343755-3343756",
+    "name": "La Motte-Picquet-Grenelle",
+    "geolocation": [
+      48.848803206044934,
+      2.29769423466391
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343757-3343758": {
+    "id": "3343757-3343758",
+    "name": "Ecole Militaire",
+    "geolocation": [
+      48.85426092155411,
+      2.305439560539011
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343759-3343760": {
+    "id": "3343759-3343760",
+    "name": "La Tour-Maubourg",
+    "geolocation": [
+      48.85722786064964,
+      2.309796225827356
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343761-3343762": {
+    "id": "3343761-3343762",
+    "name": "Invalides",
+    "geolocation": [
+      48.86109346762053,
+      2.314643355346437
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343763-3343764": {
+    "id": "3343763-3343764",
+    "name": "Concorde",
+    "geolocation": [
+      48.865507221530486,
+      2.320362855861128
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343765-3343766": {
+    "id": "3343765-3343766",
+    "name": "Madeleine",
+    "geolocation": [
+      48.86950712762907,
+      2.324680199591515
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343767-3343768": {
+    "id": "3343767-3343768",
+    "name": "Opera",
+    "geolocation": [
+      48.87063108014849,
+      2.331737048361137
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343769-3343770": {
+    "id": "3343769-3343770",
+    "name": "Richelieu-Drouot",
+    "geolocation": [
+      48.87200623896137,
+      2.339911390610416
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343771-3343772": {
+    "id": "3343771-3343772",
+    "name": "Grands Boulevards",
+    "geolocation": [
+      48.87157474359305,
+      2.342895031984659
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343773-3343774": {
+    "id": "3343773-3343774",
+    "name": "Bonne Nouvelle",
+    "geolocation": [
+      48.87057675358199,
+      2.348494293710928
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343775-3343776": {
+    "id": "3343775-3343776",
+    "name": "Strasbourg-Saint-Denis",
+    "geolocation": [
+      48.869380780106006,
+      2.354079652196349
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343777-3343778": {
+    "id": "3343777-3343778",
+    "name": "Republique",
+    "geolocation": [
+      48.86767151899055,
+      2.363329120776082
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343779-3343780": {
+    "id": "3343779-3343780",
+    "name": "Filles du Calvaire",
+    "geolocation": [
+      48.86307817635541,
+      2.36674588358473
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343781-3343782": {
+    "id": "3343781-3343782",
+    "name": "Saint-Sebastien-Froissart",
+    "geolocation": [
+      48.86097499718719,
+      2.367262295022941
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343783-3343784": {
+    "id": "3343783-3343784",
+    "name": "Chemin Vert",
+    "geolocation": [
+      48.85758654446453,
+      2.368036694948375
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343785-3343786": {
+    "id": "3343785-3343786",
+    "name": "Bastille",
+    "geolocation": [
+      48.85373962301297,
+      2.369164817861832
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343787-3343788": {
+    "id": "3343787-3343788",
+    "name": "Ledru-Rollin",
+    "geolocation": [
+      48.85119416536367,
+      2.375931737012894
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343789-3343790": {
+    "id": "3343789-3343790",
+    "name": "Faidherbe-Chaligny",
+    "geolocation": [
+      48.85006766800271,
+      2.384428770741631
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343791-3343792": {
+    "id": "3343791-3343792",
+    "name": "Reuilly-Diderot",
+    "geolocation": [
+      48.84721750107955,
+      2.3872041772135972
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343793-3343794": {
+    "id": "3343793-3343794",
+    "name": "Montgallet",
+    "geolocation": [
+      48.844403092096876,
+      2.39025165315774
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343795-3343796": {
+    "id": "3343795-3343796",
+    "name": "Daumesnil (Felix Eboue)",
+    "geolocation": [
+      48.83968214020875,
+      2.395584170346655
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343797-3343798": {
+    "id": "3343797-3343798",
+    "name": "Michel Bizot",
+    "geolocation": [
+      48.836991037652965,
+      2.402919606870042
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343799-3343800": {
+    "id": "3343799-3343800",
+    "name": "Porte Doree",
+    "geolocation": [
+      48.83549725282465,
+      2.406185212214934
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343801-3343802": {
+    "id": "3343801-3343802",
+    "name": "Porte de Charenton",
+    "geolocation": [
+      48.83266034648216,
+      2.40046363844978
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343803-3343804": {
+    "id": "3343803-3343804",
+    "name": "Liberte",
+    "geolocation": [
+      48.82563711172796,
+      2.407410805426122
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343805-3343806": {
+    "id": "3343805-3343806",
+    "name": "Charenton-Ecoles",
+    "geolocation": [
+      48.821489819145576,
+      2.413856762331106
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343807-3343808": {
+    "id": "3343807-3343808",
+    "name": "Ecole Veterinaire de Maisons-Alfort",
+    "geolocation": [
+      48.81507632012976,
+      2.421631766730663
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343809-3343810": {
+    "id": "3343809-3343810",
+    "name": "Maisons-Alfort-Stade",
+    "geolocation": [
+      48.808225347352376,
+      2.4362758210511313
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343811-3343812": {
+    "id": "3343811-3343812",
+    "name": "Maisons-Alfort-Les Juilliottes",
+    "geolocation": [
+      48.80250044183061,
+      2.446183618559453
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343813-3343814": {
+    "id": "3343813-3343814",
+    "name": "Creteil-L'Echat (Hopital Henri Mondor)",
+    "geolocation": [
+      48.79660129757846,
+      2.4495315243760762
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343815-3343816": {
+    "id": "3343815-3343816",
+    "name": "Creteil-Universite",
+    "geolocation": [
+      48.78972431608003,
+      2.450836106390663
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343817-3343818": {
+    "id": "3343817-3343818",
+    "name": "Creteil-Prefecture (Hotel de Ville)",
+    "geolocation": [
+      48.779757257844594,
+      2.459314291078828
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3343819-3343825": {
+    "id": "3343819-3343825",
+    "name": "Pointe du Lac",
+    "geolocation": [
+      48.76876863574218,
+      2.464319398948263
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1804-2343": {
+    "id": "1804-2343",
+    "name": "Pont de Sevres",
+    "geolocation": [
+      48.829690338022736,
+      2.230528434192334
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2088-2549": {
+    "id": "2088-2549",
+    "name": "Billancourt",
+    "geolocation": [
+      48.832087644282545,
+      2.238160776875514
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1884-2280": {
+    "id": "1884-2280",
+    "name": "Marcel Sembat",
+    "geolocation": [
+      48.833808586980275,
+      2.243480614417395
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1747-2425": {
+    "id": "1747-2425",
+    "name": "Porte de Saint-Cloud",
+    "geolocation": [
+      48.837565334473624,
+      2.255591274447898
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1936-2261": {
+    "id": "1936-2261",
+    "name": "Exelmans",
+    "geolocation": [
+      48.84290697853592,
+      2.260144397880895
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1816-2355": {
+    "id": "1816-2355",
+    "name": "Michel-Ange-Molitor",
+    "geolocation": [
+      48.845056129032,
+      2.261911423279769
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1814-2353": {
+    "id": "1814-2353",
+    "name": "Michel-Ange-Auteuil",
+    "geolocation": [
+      48.847924592785105,
+      2.264235905782418
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1899-2295": {
+    "id": "1899-2295",
+    "name": "Jasmin",
+    "geolocation": [
+      48.852438519222666,
+      2.26793392300095
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1762-2440": {
+    "id": "1762-2440",
+    "name": "Ranelagh",
+    "geolocation": [
+      48.85550440300199,
+      2.269959178255765
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1917-2242": {
+    "id": "1917-2242",
+    "name": "La Muette",
+    "geolocation": [
+      48.85809504968323,
+      2.274096448110612
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1708-2453": {
+    "id": "1708-2453",
+    "name": "Rue de la Pompe (Avenue Georges Mandel)",
+    "geolocation": [
+      48.864253384403426,
+      2.277916762028845
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1637-2517": {
+    "id": "1637-2517",
+    "name": "Trocadero",
+    "geolocation": [
+      48.8630891350352,
+      2.286840378494593
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1895-2291": {
+    "id": "1895-2291",
+    "name": "Iena",
+    "geolocation": [
+      48.864350199647255,
+      2.29404526378309
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2043-2162": {
+    "id": "2043-2162",
+    "name": "Alma-Marceau",
+    "geolocation": [
+      48.86429867104669,
+      2.301251410449929
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1946-2201": {
+    "id": "1946-2201",
+    "name": "Franklin-Roosevelt",
+    "geolocation": [
+      48.868812631860955,
+      2.309926324470496
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1730-2441": {
+    "id": "1730-2441",
+    "name": "Saint-Philippe du Roule",
+    "geolocation": [
+      48.8724706657937,
+      2.310769101230354
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1819-2358": {
+    "id": "1819-2358",
+    "name": "Miromesnil",
+    "geolocation": [
+      48.87353214061607,
+      2.315578024866189
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1715-2460": {
+    "id": "1715-2460",
+    "name": "Saint-Augustin",
+    "geolocation": [
+      48.87438676021276,
+      2.320727831964731
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1890-2286": {
+    "id": "1890-2286",
+    "name": "Havre-Caumartin",
+    "geolocation": [
+      48.873425976534854,
+      2.328970973296564
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1972-2227": {
+    "id": "1972-2227",
+    "name": "Chaussee d'Antin (La Fayette)",
+    "geolocation": [
+      48.87285998941257,
+      2.333044750926922
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1702-2447": {
+    "id": "1702-2447",
+    "name": "Richelieu-Drouot",
+    "geolocation": [
+      48.872096123789774,
+      2.339325555856426
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1712-2457": {
+    "id": "1712-2457",
+    "name": "Grands Boulevards",
+    "geolocation": [
+      48.871511817078165,
+      2.343208377544865
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2001-2190": {
+    "id": "2001-2190",
+    "name": "Bonne Nouvelle",
+    "geolocation": [
+      48.87049583233104,
+      2.348862117440598
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1678-2488": {
+    "id": "1678-2488",
+    "name": "Strasbourg-Saint-Denis",
+    "geolocation": [
+      48.869227930987556,
+      2.354529175385818
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1647-2527": {
+    "id": "1647-2527",
+    "name": "Republique",
+    "geolocation": [
+      48.86741082883539,
+      2.363587825558049
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1844-2311": {
+    "id": "1844-2311",
+    "name": "Oberkampf",
+    "geolocation": [
+      48.86497429063367,
+      2.3676324115639398
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1714-2459": {
+    "id": "1714-2459",
+    "name": "Saint-Ambroise",
+    "geolocation": [
+      48.86164742429928,
+      2.373147140772303
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1633-2513": {
+    "id": "1633-2513",
+    "name": "Voltaire (Leon Blum)",
+    "geolocation": [
+      48.85766372576006,
+      2.380036296795506
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2032-2151": {
+    "id": "2032-2151",
+    "name": "Charonne",
+    "geolocation": [
+      48.85464204744478,
+      2.385032193334828
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1709-2454": {
+    "id": "1709-2454",
+    "name": "Rue des Boulets",
+    "geolocation": [
+      48.8522227131835,
+      2.389115650927187
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1651-2531": {
+    "id": "1651-2531",
+    "name": "Nation",
+    "geolocation": [
+      48.849010153648216,
+      2.397664612791007
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2014-2133": {
+    "id": "2014-2133",
+    "name": "Buzenval",
+    "geolocation": [
+      48.851767474505195,
+      2.401181483872644
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1882-2278": {
+    "id": "1882-2278",
+    "name": "Maraichers",
+    "geolocation": [
+      48.8526004024001,
+      2.406384989566139
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1745-2423": {
+    "id": "1745-2423",
+    "name": "Porte de Montreuil",
+    "geolocation": [
+      48.85337987781381,
+      2.410458187416353
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1704-2449": {
+    "id": "1704-2449",
+    "name": "Robespierre",
+    "geolocation": [
+      48.855680808196944,
+      2.423659085483019
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1993-2183": {
+    "id": "1993-2183",
+    "name": "Croix-de-Chavaux (Jacques Duclos)",
+    "geolocation": [
+      48.857999073258,
+      2.435866895674707
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1873-2269": {
+    "id": "1873-2269",
+    "name": "Mairie de Montreuil",
+    "geolocation": [
+      48.862280986339,
+      2.441827679127713
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2005-2194": {
+    "id": "2005-2194",
+    "name": "Boulogne Pont de Saint-Cloud",
+    "geolocation": [
+      48.84068016312195,
+      2.228313661724341
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2004-2193": {
+    "id": "2004-2193",
+    "name": "Boulogne-Jean-Jaures",
+    "geolocation": [
+      48.84228014352973,
+      2.238862975367271
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "8433-2346": {
+    "id": "8433-2346",
+    "name": "Porte d'Auteuil",
+    "geolocation": [
+      48.84822598041119,
+      2.257698885660922
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1817-": {
+    "id": "1817-",
+    "name": "Michel-Ange-Molitor",
+    "geolocation": [
+      48.84498448667992,
+      2.26232003903747
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2026-": {
+    "id": "2026-",
+    "name": "Chardon-Lagache",
+    "geolocation": [
+      48.845104139567006,
+      2.266936059032254
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1818-": {
+    "id": "1818-",
+    "name": "Mirabeau",
+    "geolocation": [
+      48.847084858904864,
+      2.273074914922012
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1903-2299": {
+    "id": "1903-2299",
+    "name": "Javel-Andre-Citroen",
+    "geolocation": [
+      48.84596388048408,
+      2.277815126353771
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2031-2150": {
+    "id": "2031-2150",
+    "name": "Charles Michels",
+    "geolocation": [
+      48.8463629755008,
+      2.285631065882874
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2057-2106": {
+    "id": "2057-2106",
+    "name": "Avenue Emile-Zola",
+    "geolocation": [
+      48.846852151949776,
+      2.2954488279344742
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1916-2241": {
+    "id": "1916-2241",
+    "name": "La Motte-Picquet-Grenelle",
+    "geolocation": [
+      48.84882126668606,
+      2.297952964025191
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1661-2541": {
+    "id": "1661-2541",
+    "name": "Segur",
+    "geolocation": [
+      48.84686470206919,
+      2.307268847578926
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1927-2252": {
+    "id": "1927-2252",
+    "name": "Duroc",
+    "geolocation": [
+      48.846848768895974,
+      2.316937310834085
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1690-2500": {
+    "id": "1690-2500",
+    "name": "Vaneau",
+    "geolocation": [
+      48.84870084962003,
+      2.321239881938573
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1666-2476": {
+    "id": "1666-2476",
+    "name": "Sevres-Babylone",
+    "geolocation": [
+      48.85093928843075,
+      2.326114654822284
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1867-2334": {
+    "id": "1867-2334",
+    "name": "Mabillon",
+    "geolocation": [
+      48.85284513365445,
+      2.335143718516068
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1653-2533": {
+    "id": "1653-2533",
+    "name": "Odeon",
+    "geolocation": [
+      48.85231488119486,
+      2.338861720336335
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1977-2167": {
+    "id": "1977-2167",
+    "name": "Cluny-La Sorbonne",
+    "geolocation": [
+      48.85079575570429,
+      2.345030888365225
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1811-2350": {
+    "id": "1811-2350",
+    "name": "Maubert-Mutualite",
+    "geolocation": [
+      48.849716940163574,
+      2.348925558491872
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2018-2137": {
+    "id": "2018-2137",
+    "name": "Cardinal-Lemoine",
+    "geolocation": [
+      48.84670586906026,
+      2.351335178972595
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1908-2233": {
+    "id": "1908-2233",
+    "name": "Jussieu",
+    "geolocation": [
+      48.84576175731147,
+      2.354548594906739
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1952-2207": {
+    "id": "1952-2207",
+    "name": "Gare d'Austerlitz",
+    "geolocation": [
+      48.84371986136062,
+      2.363916217162712
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "-2256": {
+    "id": "-2256",
+    "name": "Eglise d'Auteuil",
+    "geolocation": [
+      48.84753224211661,
+      2.269479282187707
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "-2354": {
+    "id": "-2354",
+    "name": "Michel-Ange-Auteuil",
+    "geolocation": [
+      48.847933946139044,
+      2.264835077173674
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1875-2271": {
+    "id": "1875-2271",
+    "name": "Mairie des Lilas",
+    "geolocation": [
+      48.880051061772676,
+      2.415660206064229
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1753-2431": {
+    "id": "1753-2431",
+    "name": "Porte des Lilas",
+    "geolocation": [
+      48.87723471669558,
+      2.4065268430480913
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1682-2492": {
+    "id": "1682-2492",
+    "name": "Telegraphe",
+    "geolocation": [
+      48.87552244924565,
+      2.398676511144951
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1798-2408": {
+    "id": "1798-2408",
+    "name": "Place des Fetes",
+    "geolocation": [
+      48.87672946890669,
+      2.393146031767842
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1905-2266": {
+    "id": "1905-2266",
+    "name": "Jourdain",
+    "geolocation": [
+      48.87524829462498,
+      2.389329434152641
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1758-2436": {
+    "id": "1758-2436",
+    "name": "Pyrenees",
+    "geolocation": [
+      48.87382117233675,
+      2.384886372197903
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2066-2115": {
+    "id": "2066-2115",
+    "name": "Belleville",
+    "geolocation": [
+      48.87194579797485,
+      2.3767510413738
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1963-2218": {
+    "id": "1963-2218",
+    "name": "Goncourt (Hopital Saint-Louis)",
+    "geolocation": [
+      48.87001535524704,
+      2.370768799021465
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "967988-967989": {
+    "id": "967988-967989",
+    "name": "Republique",
+    "geolocation": [
+      48.867240185361254,
+      2.36305644594524
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2051-2100": {
+    "id": "2051-2100",
+    "name": "Arts-et-Metiers",
+    "geolocation": [
+      48.86538117604685,
+      2.355644931206877
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1761-2439": {
+    "id": "1761-2439",
+    "name": "Rambuteau",
+    "geolocation": [
+      48.86119339564163,
+      2.353286959870713
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1893-2289": {
+    "id": "1893-2289",
+    "name": "Hotel de Ville",
+    "geolocation": [
+      48.85780537313629,
+      2.351460776513565
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1965-2220": {
+    "id": "1965-2220",
+    "name": "Chatelet",
+    "geolocation": [
+      48.858857284381365,
+      2.347769856742684
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1870-2337": {
+    "id": "1870-2337",
+    "name": "Mairie d'Issy",
+    "geolocation": [
+      48.82434652601842,
+      2.273565829600646
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1986-2176": {
+    "id": "1986-2176",
+    "name": "Corentin-Celton",
+    "geolocation": [
+      48.82682988739414,
+      2.2789668615743413
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1750-2428": {
+    "id": "1750-2428",
+    "name": "Porte de Versailles",
+    "geolocation": [
+      48.832253452749,
+      2.287864137819189
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1984-2174": {
+    "id": "1984-2174",
+    "name": "Convention",
+    "geolocation": [
+      48.83713694956265,
+      2.296396090155559
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1691-2501": {
+    "id": "1691-2501",
+    "name": "Vaugirard (Adolphe Cherioux)",
+    "geolocation": [
+      48.83943928123955,
+      2.3010780424739252
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1632-2512": {
+    "id": "1632-2512",
+    "name": "Volontaires",
+    "geolocation": [
+      48.84141844267774,
+      2.307993649386661
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1782-2392": {
+    "id": "1782-2392",
+    "name": "Pasteur",
+    "geolocation": [
+      48.8428305421094,
+      2.312663307759113
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1938-2263": {
+    "id": "1938-2263",
+    "name": "Falguiere",
+    "geolocation": [
+      48.84432338300201,
+      2.317564676180599
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1826-2365": {
+    "id": "1826-2365",
+    "name": "Montparnasse-Bienvenue",
+    "geolocation": [
+      48.844027636151914,
+      2.323569797217576
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1842-2309": {
+    "id": "1842-2309",
+    "name": "Notre-Dame des Champs",
+    "geolocation": [
+      48.84478304833005,
+      2.32844448329272
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1646-2526": {
+    "id": "1646-2526",
+    "name": "Rennes",
+    "geolocation": [
+      48.848198268824774,
+      2.328021748628113
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1667-2477": {
+    "id": "1667-2477",
+    "name": "Sevres-Babylone",
+    "geolocation": [
+      48.85157746899621,
+      2.326890788342885
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1710-2455": {
+    "id": "1710-2455",
+    "name": "Rue du Bac",
+    "geolocation": [
+      48.85589133781551,
+      2.325704993899314
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1669-2479": {
+    "id": "1669-2479",
+    "name": "Solferino",
+    "geolocation": [
+      48.858533359508236,
+      2.323089248787209
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2052-2101": {
+    "id": "2052-2101",
+    "name": "Assemblee Nationale",
+    "geolocation": [
+      48.86145390429487,
+      2.3203096905073552
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1982-2172": {
+    "id": "1982-2172",
+    "name": "Concorde",
+    "geolocation": [
+      48.8654893908901,
+      2.321411789213801
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1869-2336": {
+    "id": "1869-2336",
+    "name": "Madeleine",
+    "geolocation": [
+      48.8697947152178,
+      2.324612012022265
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1723-2468": {
+    "id": "1723-2468",
+    "name": "Saint-Lazare",
+    "geolocation": [
+      48.875420977789275,
+      2.326695272071704
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1686-2496": {
+    "id": "1686-2496",
+    "name": "Trinite-d'Estienne d'Orves",
+    "geolocation": [
+      48.8763290374387,
+      2.331804568510596
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1841-2308": {
+    "id": "1841-2308",
+    "name": "Notre-Dame de Lorette",
+    "geolocation": [
+      48.876050554237366,
+      2.337908692037609
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1720-2465": {
+    "id": "1720-2465",
+    "name": "Saint-Georges",
+    "geolocation": [
+      48.878593955236205,
+      2.3378269689170192
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1792-2402": {
+    "id": "1792-2402",
+    "name": "Pigalle",
+    "geolocation": [
+      48.88202708962622,
+      2.337213801747862
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2037-2156": {
+    "id": "2037-2156",
+    "name": "Abbesses",
+    "geolocation": [
+      48.8843997149084,
+      2.338399384171042
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1920-2245": {
+    "id": "1920-2245",
+    "name": "Lamarck-Caulaincourt",
+    "geolocation": [
+      48.8897381077178,
+      2.339149086674118
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1906-2267": {
+    "id": "1906-2267",
+    "name": "Jules Joffrin",
+    "geolocation": [
+      48.89249697693026,
+      2.344328410551504
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1883-2279": {
+    "id": "1883-2279",
+    "name": "Marcadet-Poissonniers",
+    "geolocation": [
+      48.89160682271851,
+      2.349548310988923
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1886-2282": {
+    "id": "1886-2282",
+    "name": "Marx-Dormoy",
+    "geolocation": [
+      48.890374081221125,
+      2.3597970086706113
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1743-2421": {
+    "id": "1743-2421",
+    "name": "Porte de la Chapelle",
+    "geolocation": [
+      48.89795934324147,
+      2.359255069579652
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "3901291-3901292": {
+    "id": "3901291-3901292",
+    "name": "Front Populaire",
+    "geolocation": [
+      48.90666658787472,
+      2.365230135854379
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1969-2224": {
+    "id": "1969-2224",
+    "name": "Chatillon Montrouge",
+    "geolocation": [
+      48.810283363510756,
+      2.3012888709759522
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1880-2276": {
+    "id": "1880-2276",
+    "name": "Malakoff-Rue Etienne Dolet",
+    "geolocation": [
+      48.81470406056698,
+      2.297284730170639
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1879-2275": {
+    "id": "1879-2275",
+    "name": "Malakoff-Plateau de Vanves",
+    "geolocation": [
+      48.8224426939998,
+      2.297932105328727
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1749-2427": {
+    "id": "1749-2427",
+    "name": "Porte de Vanves",
+    "geolocation": [
+      48.82776532658967,
+      2.30431235076306
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1799-2372": {
+    "id": "1799-2372",
+    "name": "Plaisance",
+    "geolocation": [
+      48.83175809378841,
+      2.313866549848162
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1787-2397": {
+    "id": "1787-2397",
+    "name": "Pernety",
+    "geolocation": [
+      48.833933819810916,
+      2.31790897216328
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1948-2203": {
+    "id": "1948-2203",
+    "name": "Gaite",
+    "geolocation": [
+      48.838751821388634,
+      2.3225091862247123
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1827-2366": {
+    "id": "1827-2366",
+    "name": "Montparnasse-Bienvenue",
+    "geolocation": [
+      48.84207702018728,
+      2.321010449555117
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1928-2253": {
+    "id": "1928-2253",
+    "name": "Duroc",
+    "geolocation": [
+      48.84699250092279,
+      2.3165423447702302
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1719-2464": {
+    "id": "1719-2464",
+    "name": "Saint-Francois-Xavier",
+    "geolocation": [
+      48.8509825598235,
+      2.31442986460027
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1638-2518": {
+    "id": "1638-2518",
+    "name": "Varenne",
+    "geolocation": [
+      48.85639306919846,
+      2.314754364810288
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1897-2293": {
+    "id": "1897-2293",
+    "name": "Invalides",
+    "geolocation": [
+      48.86085078966753,
+      2.314548112626649
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2025-2144": {
+    "id": "2025-2144",
+    "name": "Champs-Elysees-Clemenceau",
+    "geolocation": [
+      48.867366570469784,
+      2.314191063393658
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1820-2359": {
+    "id": "1820-2359",
+    "name": "Miromesnil",
+    "geolocation": [
+      48.87346032551137,
+      2.316041288915063
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1724-2469": {
+    "id": "1724-2469",
+    "name": "Saint-Lazare",
+    "geolocation": [
+      48.876067814352574,
+      2.3241881007710132
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1858-2325": {
+    "id": "1858-2325",
+    "name": "Liege",
+    "geolocation": [
+      48.87953716638082,
+      2.326857947272961
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1796-2406": {
+    "id": "1796-2406",
+    "name": "Place de Clichy",
+    "geolocation": [
+      48.883203999876585,
+      2.327266024641138
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1656-2536": {
+    "id": "1656-2536",
+    "name": "La Fourche",
+    "geolocation": [
+      48.8874368425293,
+      2.325725222017408
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1888-2284": {
+    "id": "1888-2284",
+    "name": "Guy-Moquet",
+    "geolocation": [
+      48.893009056051206,
+      2.327495839490489
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1748-2426": {
+    "id": "1748-2426",
+    "name": "Porte de Saint-Ouen",
+    "geolocation": [
+      48.89751173277147,
+      2.329021647212208
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1959-2214": {
+    "id": "1959-2214",
+    "name": "Garibaldi",
+    "geolocation": [
+      48.906382164226436,
+      2.331910473458931
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1874-2270": {
+    "id": "1874-2270",
+    "name": "Mairie de Saint-Ouen",
+    "geolocation": [
+      48.91162168038383,
+      2.333736964842091
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1692060-1692061": {
+    "id": "1692060-1692061",
+    "name": "Carrefour-Pleyel",
+    "geolocation": [
+      48.9199435050834,
+      2.34390941978589
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1717-2462": {
+    "id": "1717-2462",
+    "name": "Saint-Denis - Porte de Paris",
+    "geolocation": [
+      48.92992666527093,
+      2.356186149188869
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1716-2461": {
+    "id": "1716-2461",
+    "name": "Basilique de Saint-Denis",
+    "geolocation": [
+      48.936477492650496,
+      2.359639745304582
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "140078-140079": {
+    "id": "140078-140079",
+    "name": "Saint-Denis-Universite",
+    "geolocation": [
+      48.94611087248738,
+      2.362045192990599
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "2009-2165": {
+    "id": "2009-2165",
+    "name": "Brochant",
+    "geolocation": [
+      48.89062663302413,
+      2.320191121275328
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1741-2419": {
+    "id": "1741-2419",
+    "name": "Porte de Clichy",
+    "geolocation": [
+      48.894436060297956,
+      2.313565665465226
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1872-2268": {
+    "id": "1872-2268",
+    "name": "Mairie de Clichy",
+    "geolocation": [
+      48.90400543242958,
+      2.30536812086686
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1947-2202": {
+    "id": "1947-2202",
+    "name": "Gabriel-Peri",
+    "geolocation": [
+      48.916574835983226,
+      2.29432896468706
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1662795-1662796": {
+    "id": "1662795-1662796",
+    "name": "Les Agnettes",
+    "geolocation": [
+      48.92291633150906,
+      2.285963896576634
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1662797-1662798": {
+    "id": "1662797-1662798",
+    "name": "Asnieres-Gennevilliers Les Courtilles",
+    "geolocation": [
+      48.93029362287076,
+      2.2837606331952482
+    ],
+    "accessibility": {
+      "vision": true,
+      "mobility": false
+    }
+  },
+  "1166840-1166841": {
+    "id": "1166840-1166841",
+    "name": "Saint-Lazare",
+    "geolocation": [
+      48.8755376703957,
+      2.325196489977427
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166838-1166839": {
+    "id": "1166838-1166839",
+    "name": "Madeleine",
+    "geolocation": [
+      48.869578970578424,
+      2.324162488791942
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "6129304-6129305": {
+    "id": "6129304-6129305",
+    "name": "Pyramides",
+    "geolocation": [
+      48.86661383061701,
+      2.334407530948788
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166834-1166835": {
+    "id": "1166834-1166835",
+    "name": "Chatelet",
+    "geolocation": [
+      48.85895618133369,
+      2.347361255214262
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166832-1166833": {
+    "id": "1166832-1166833",
+    "name": "Gare de Lyon",
+    "geolocation": [
+      48.844652150982945,
+      2.37310814754528
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166830-1166831": {
+    "id": "1166830-1166831",
+    "name": "Bercy",
+    "geolocation": [
+      48.840542782965464,
+      2.379409463123068
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166828-1166829": {
+    "id": "1166828-1166829",
+    "name": "Cour Saint-Emilion",
+    "geolocation": [
+      48.833520860805514,
+      2.386265236740457
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166826-1166827": {
+    "id": "1166826-1166827",
+    "name": "Bibliotheque-Francois Mitterrand",
+    "geolocation": [
+      48.829830695271106,
+      2.376120009344837
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "1166824-1166825": {
+    "id": "1166824-1166825",
+    "name": "Olympiades",
+    "geolocation": [
+      48.82694828196076,
+      2.367038433387592
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "2090-2551": {
+    "id": "2090-2551",
+    "name": "Funiculaire Gare basse",
+    "geolocation": [
+      48.88469617855217,
+      2.342610282962049
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "2091-2552": {
+    "id": "2091-2552",
+    "name": "Funiculaire Gare haute",
+    "geolocation": [
+      48.88557692951087,
+      2.342542235411533
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "22789-22790": {
+    "id": "22789-22790",
+    "name": "Antony",
+    "geolocation": [
+      48.754494893921134,
+      2.3007701500662883
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "22791-22792": {
+    "id": "22791-22792",
+    "name": "Orly 1-2-3",
+    "geolocation": [
+      48.729564991359986,
+      2.359564239369551
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  },
+  "22793-22794": {
+    "id": "22793-22794",
+    "name": "Orly 4",
+    "geolocation": [
+      48.7289245757609,
+      2.369359943921722
+    ],
+    "accessibility": {
+      "vision": false,
+      "mobility": true
+    }
+  }
+}
