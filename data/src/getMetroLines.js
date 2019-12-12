@@ -18,7 +18,7 @@ const query = `{
 request(config.endpoint, query)
   .then(({ lines }) => {
     fs.writeFileSync(
-      path.join('json', 'generated', 'metro-lines.json'),
+      path.join('json', 'src', 'metro-lines.json'),
       JSON.stringify(lines)
     );
   })

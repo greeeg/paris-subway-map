@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-const metroLines = require('../json/generated/metro-lines.json');
+const { cleanId } = require('./utils');
+const metroLines = require('../json/src/metro-lines.json');
 const geoPositions = require('../json/src/positions-geographiques-des-stations-du-reseau-ratp.json');
 const accessibilityPlaces = require('../json/src/accessibilite-des-gares-et-stations-metro-et-rer-ratp.json');
 
@@ -33,8 +34,9 @@ metroLines.forEach(line => {
       matchingAccessibilityPlace.fields.annoncesonoreprochainpassage === 1 &&
       matchingAccessibilityPlace.fields.annoncesonoresituationsperturbees === 1;
 
-    stations[station.id] = {
+    stations[cleanId(station.id)] = {
       ...station,
+      lineId: line.id,
       geolocation: matchingGeoPosition.fields.stop_coordinates,
       accessibility: {
         vision: visionDisabilityCompliant,

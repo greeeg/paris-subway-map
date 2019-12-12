@@ -7,12 +7,15 @@
     "generate:lines:metro": "node src/getMetroLines.js",
     "generate:lines:rer": "node src/getRERLines.js",
     "generate:lines:tram": "node src/getTramLines.js",
-    "generate:stations": "node src/generateCompleteStations.js"
+    "generate:stations": "node src/generateCompleteStations.js",
+    "generate:lines": "node src/generateCompleteLines.js",
+    "generate:unified": "node src/generateUnifiedStationsAndLines.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphql-request": "^1.8.2"
+    "graphql-request": "^1.8.2",
+    "uuid": "^3.3.3"
   }
 }
