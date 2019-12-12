@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "generate:lines": "node src/getSubwayLines.js"
+    "generate:lines:metro": "node src/getMetroLines.js",
+    "generate:lines:rer": "node src/getRERLines.js",
+    "generate:lines:tram": "node src/getTramLines.js",
+    "generate:lines": "yarn run generate:lines:metro && yarn run generate:lines:rer && yarn run generate:lines:tram"
   },
   "keywords": [],
   "author": "",

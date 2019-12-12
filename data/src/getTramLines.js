@@ -4,7 +4,7 @@ const { request } = require('graphql-request');
 const config = require('./config');
 
 const query = `{
-  lines(reseau: "metro") {
+  lines(reseau: "tram") {
     id
     name
     code
@@ -18,13 +18,13 @@ const query = `{
 request(config.endpoint, query)
   .then(({ lines }) => {
     fs.writeFileSync(
-      path.join('json', 'generated', 'subway-lines.json'),
+      path.join('json', 'generated', 'tram-lines.json'),
       JSON.stringify(lines)
     );
   })
   .catch(err => {
     console.log(
-      'Unable to request subway lines & stations from GraphQL endpoint',
+      'Unable to request tram lines & stations from GraphQL endpoint',
       err
     );
   });
