@@ -25,8 +25,8 @@ const Map: React.FC = () => {
       target: 'map',
       layers: [
         tileLayer(),
-        dotsLayer({ stations }),
-        linesLayer({ lines, stations })
+        linesLayer({ lines, stations }),
+        dotsLayer({ stations })
       ],
       view: new ol.View({
         center: fromLonLat(DEFAULT_CENTER),

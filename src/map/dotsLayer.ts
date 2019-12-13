@@ -15,17 +15,15 @@ const dotsLayer = ({ stations }: DotsLayerProps): Layer => {
     source: new VectorSource({
       features: Object.keys(stations).map(id => {
         const station = stations[id] as Station;
-        const feature = new Feature(
-          new Point(fromLonLat(station.geolocation.reverse()))
-        );
+        const feature = new Feature(new Point(fromLonLat(station.geolocation)));
         return feature;
       })
     }),
     style: new Style({
       image: new RegularShape({
-        fill: new Fill({ color: 'red' }),
+        fill: new Fill({ color: 'black' }),
         points: 4,
-        radius: 10,
+        radius: 4,
         angle: Math.PI / 4
       })
     })

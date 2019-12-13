@@ -4,8 +4,8 @@
     "name": "Danube",
     "lineId": "74",
     "geolocation": [
-      48.88195101817822,
-      2.393260675857387
+      2.393260675857387,
+      48.88195101817822
     ],
     "accessibility": {
       "vision": true,
@@ -17,8 +17,8 @@
     "name": "Place des Fetes",
     "lineId": "74",
     "geolocation": [
-      48.8772239477293,
-      2.392765050250897
+      2.392765050250897,
+      48.8772239477293
     ],
     "accessibility": {
       "vision": true,
@@ -30,8 +30,8 @@
     "name": "Michel-Ange-Molitor",
     "lineId": "63",
     "geolocation": [
-      48.84498448667992,
-      2.26232003903747
+      2.26232003903747,
+      48.84498448667992
     ],
     "accessibility": {
       "vision": true,
@@ -43,8 +43,8 @@
     "name": "Mirabeau",
     "lineId": "63",
     "geolocation": [
-      48.847084858904864,
-      2.273074914922012
+      2.273074914922012,
+      48.847084858904864
     ],
     "accessibility": {
       "vision": true,
@@ -56,8 +56,8 @@
     "name": "Chardon-Lagache",
     "lineId": "63",
     "geolocation": [
-      48.845104139567006,
-      2.266936059032254
+      2.266936059032254,
+      48.845104139567006
     ],
     "accessibility": {
       "vision": true,
@@ -69,8 +69,8 @@
     "name": "Eglise d'Auteuil",
     "lineId": "63",
     "geolocation": [
-      48.84753224211661,
-      2.269479282187707
+      2.269479282187707,
+      48.84753224211661
     ],
     "accessibility": {
       "vision": true,
@@ -82,8 +82,8 @@
     "name": "Michel-Ange-Auteuil",
     "lineId": "63",
     "geolocation": [
-      48.847933946139044,
-      2.264835077173674
+      2.264835077173674,
+      48.847933946139044
     ],
     "accessibility": {
       "vision": true,
@@ -95,8 +95,8 @@
     "name": "Chateau de Vincennes",
     "lineId": "62",
     "geolocation": [
-      48.84432514436857,
-      2.440552346211822
+      2.440552346211822,
+      48.84432514436857
     ],
     "accessibility": {
       "vision": true,
@@ -108,8 +108,8 @@
     "name": "Berault",
     "lineId": "62",
     "geolocation": [
-      48.84536875015732,
-      2.428244509620486
+      2.428244509620486,
+      48.84536875015732
     ],
     "accessibility": {
       "vision": true,
@@ -121,8 +121,8 @@
     "name": "Saint-Mande",
     "lineId": "62",
     "geolocation": [
-      48.84623825662077,
-      2.418999828109256
+      2.418999828109256,
+      48.84623825662077
     ],
     "accessibility": {
       "vision": true,
@@ -134,8 +134,8 @@
     "name": "Porte de Vincennes",
     "lineId": "62",
     "geolocation": [
-      48.847016518419125,
-      2.410816882334764
+      2.410816882334764,
+      48.847016518419125
     ],
     "accessibility": {
       "vision": true,
@@ -147,8 +147,8 @@
     "name": "Nation",
     "lineId": "62",
     "geolocation": [
-      48.84811123157566,
-      2.398004012797743
+      2.398004012797743,
+      48.84811123157566
     ],
     "accessibility": {
       "vision": true,
@@ -160,8 +160,8 @@
     "name": "Reuilly-Diderot",
     "lineId": "62",
     "geolocation": [
-      48.8473528769588,
-      2.385842540040244
+      2.385842540040244,
+      48.8473528769588
     ],
     "accessibility": {
       "vision": true,
@@ -173,8 +173,8 @@
     "name": "Gare de Lyon",
     "lineId": "62",
     "geolocation": [
-      48.84555978708341,
-      2.37344920496318
+      2.37344920496318,
+      48.84555978708341
     ],
     "accessibility": {
       "vision": true,
@@ -186,8 +186,8 @@
     "name": "Bastille",
     "lineId": "62",
     "geolocation": [
-      48.85297567465423,
-      2.369218824443343
+      2.369218824443343,
+      48.85297567465423
     ],
     "accessibility": {
       "vision": true,
@@ -199,8 +199,8 @@
     "name": "Saint-Paul (Le Marais)",
     "lineId": "62",
     "geolocation": [
-      48.85513451823504,
-      2.361334339067663
+      2.361334339067663,
+      48.85513451823504
     ],
     "accessibility": {
       "vision": true,
@@ -212,8 +212,8 @@
     "name": "Hotel de Ville",
     "lineId": "62",
     "geolocation": [
-      48.857355927169515,
-      2.352073566858718
+      2.352073566858718,
+      48.857355927169515
     ],
     "accessibility": {
       "vision": true,
@@ -225,8 +225,8 @@
     "name": "Chatelet",
     "lineId": "62",
     "geolocation": [
-      48.85856967247972,
-      2.347933245835307
+      2.347933245835307,
+      48.85856967247972
     ],
     "accessibility": {
       "vision": true,
@@ -238,8 +238,8 @@
     "name": "Louvre-Rivoli",
     "lineId": "62",
     "geolocation": [
-      48.86087985759375,
-      2.340973275817903
+      2.340973275817903,
+      48.86087985759375
     ],
     "accessibility": {
       "vision": true,
@@ -251,8 +251,8 @@
     "name": "Palais-Royal (Musee du Louvre)",
     "lineId": "62",
     "geolocation": [
-      48.8623718215243,
-      2.33657360073643
+      2.33657360073643,
+      48.8623718215243
     ],
     "accessibility": {
       "vision": true,
@@ -264,8 +264,8 @@
     "name": "Tuileries",
     "lineId": "62",
     "geolocation": [
-      48.86478016250008,
-      2.329094954429427
+      2.329094954429427,
+      48.86478016250008
     ],
     "accessibility": {
       "vision": true,
@@ -277,8 +277,8 @@
     "name": "Concorde",
     "lineId": "62",
     "geolocation": [
-      48.86567809641779,
-      2.321193771801867
+      2.321193771801867,
+      48.86567809641779
     ],
     "accessibility": {
       "vision": true,
@@ -290,8 +290,8 @@
     "name": "Champs-Elysees-Clemenceau",
     "lineId": "62",
     "geolocation": [
-      48.867744026068706,
-      2.314122780374141
+      2.314122780374141,
+      48.867744026068706
     ],
     "accessibility": {
       "vision": true,
@@ -303,8 +303,8 @@
     "name": "Franklin-Roosevelt",
     "lineId": "62",
     "geolocation": [
-      48.869010427937624,
-      2.310253180896026
+      2.310253180896026,
+      48.869010427937624
     ],
     "accessibility": {
       "vision": true,
@@ -316,8 +316,8 @@
     "name": "George V",
     "lineId": "62",
     "geolocation": [
-      48.87204561942636,
-      2.300769185644953
+      2.300769185644953,
+      48.87204561942636
     ],
     "accessibility": {
       "vision": true,
@@ -329,8 +329,8 @@
     "name": "Charles de Gaulle-Etoile",
     "lineId": "62",
     "geolocation": [
-      48.8739310942679,
-      2.295127251650101
+      2.295127251650101,
+      48.8739310942679
     ],
     "accessibility": {
       "vision": true,
@@ -342,8 +342,8 @@
     "name": "Argentine",
     "lineId": "62",
     "geolocation": [
-      48.87567248598795,
-      2.289444164481448
+      2.289444164481448,
+      48.87567248598795
     ],
     "accessibility": {
       "vision": true,
@@ -355,8 +355,8 @@
     "name": "Porte Maillot",
     "lineId": "62",
     "geolocation": [
-      48.87800617627899,
-      2.282465640001332
+      2.282465640001332,
+      48.87800617627899
     ],
     "accessibility": {
       "vision": true,
@@ -368,8 +368,8 @@
     "name": "Les Sablons (Jardin d'acclimatation)",
     "lineId": "62",
     "geolocation": [
-      48.88129918549113,
-      2.271915176017791
+      2.271915176017791,
+      48.88129918549113
     ],
     "accessibility": {
       "vision": true,
@@ -381,8 +381,8 @@
     "name": "Pont de Neuilly",
     "lineId": "62",
     "geolocation": [
-      48.88550610941816,
-      2.258527470197358
+      2.258527470197358,
+      48.88550610941816
     ],
     "accessibility": {
       "vision": true,
@@ -394,8 +394,8 @@
     "name": "Esplanade de la Defense",
     "lineId": "62",
     "geolocation": [
-      48.88835806016618,
-      2.249937212862802
+      2.249937212862802,
+      48.88835806016618
     ],
     "accessibility": {
       "vision": true,
@@ -407,8 +407,8 @@
     "name": "La Defense (Grande Arche)",
     "lineId": "62",
     "geolocation": [
-      48.891826754836515,
-      2.237992043215619
+      2.237992043215619,
+      48.891826754836515
     ],
     "accessibility": {
       "vision": true,
@@ -420,8 +420,8 @@
     "name": "Nation",
     "lineId": "67",
     "geolocation": [
-      48.84942390087223,
-      2.397025038299357
+      2.397025038299357,
+      48.84942390087223
     ],
     "accessibility": {
       "vision": true,
@@ -433,8 +433,8 @@
     "name": "Avron",
     "lineId": "67",
     "geolocation": [
-      48.851193819213286,
-      2.398239140823123
+      2.398239140823123,
+      48.851193819213286
     ],
     "accessibility": {
       "vision": true,
@@ -446,8 +446,8 @@
     "name": "Alexandre-Dumas",
     "lineId": "67",
     "geolocation": [
-      48.856426348325236,
-      2.394554257654992
+      2.394554257654992,
+      48.856426348325236
     ],
     "accessibility": {
       "vision": true,
@@ -459,8 +459,8 @@
     "name": "Philippe Auguste",
     "lineId": "67",
     "geolocation": [
-      48.85837884146994,
-      2.3897347327397043
+      2.3897347327397043,
+      48.85837884146994
     ],
     "accessibility": {
       "vision": true,
@@ -472,8 +472,8 @@
     "name": "Pere-Lachaise",
     "lineId": "67",
     "geolocation": [
-      48.86316120506396,
-      2.387260400184353
+      2.387260400184353,
+      48.86316120506396
     ],
     "accessibility": {
       "vision": true,
@@ -485,8 +485,8 @@
     "name": "Menilmontant",
     "lineId": "67",
     "geolocation": [
-      48.865705787623,
-      2.384429375163205
+      2.384429375163205,
+      48.865705787623
     ],
     "accessibility": {
       "vision": true,
@@ -498,8 +498,8 @@
     "name": "Couronnes",
     "lineId": "67",
     "geolocation": [
-      48.86932916949657,
-      2.3805363661617243
+      2.3805363661617243,
+      48.86932916949657
     ],
     "accessibility": {
       "vision": true,
@@ -511,8 +511,8 @@
     "name": "Belleville",
     "lineId": "67",
     "geolocation": [
-      48.87228732058717,
-      2.376737677322468
+      2.376737677322468,
+      48.87228732058717
     ],
     "accessibility": {
       "vision": true,
@@ -524,8 +524,8 @@
     "name": "Colonel Fabien",
     "lineId": "67",
     "geolocation": [
-      48.87818498179219,
-      2.370174546636358
+      2.370174546636358,
+      48.87818498179219
     ],
     "accessibility": {
       "vision": true,
@@ -537,8 +537,8 @@
     "name": "Jaures",
     "lineId": "67",
     "geolocation": [
-      48.88276854674882,
-      2.3699457989907398
+      2.3699457989907398,
+      48.88276854674882
     ],
     "accessibility": {
       "vision": true,
@@ -550,8 +550,8 @@
     "name": "Stalingrad",
     "lineId": "67",
     "geolocation": [
-      48.88418929420877,
-      2.367030441974567
+      2.367030441974567,
+      48.88418929420877
     ],
     "accessibility": {
       "vision": true,
@@ -563,8 +563,8 @@
     "name": "La Chapelle",
     "lineId": "67",
     "geolocation": [
-      48.884388698358165,
-      2.359276564276729
+      2.359276564276729,
+      48.884388698358165
     ],
     "accessibility": {
       "vision": true,
@@ -576,8 +576,8 @@
     "name": "Barbes-Rochechouart",
     "lineId": "67",
     "geolocation": [
-      48.88368010927906,
-      2.34953280365193
+      2.34953280365193,
+      48.88368010927906
     ],
     "accessibility": {
       "vision": true,
@@ -589,8 +589,8 @@
     "name": "Anvers",
     "lineId": "67",
     "geolocation": [
-      48.882871690180586,
-      2.344163572800391
+      2.344163572800391,
+      48.882871690180586
     ],
     "accessibility": {
       "vision": true,
@@ -602,8 +602,8 @@
     "name": "Pigalle",
     "lineId": "67",
     "geolocation": [
-      48.88242252841757,
-      2.337254682101535
+      2.337254682101535,
+      48.88242252841757
     ],
     "accessibility": {
       "vision": true,
@@ -615,8 +615,8 @@
     "name": "Blanche",
     "lineId": "67",
     "geolocation": [
-      48.88377051883179,
-      2.332485148274094
+      2.332485148274094,
+      48.88377051883179
     ],
     "accessibility": {
       "vision": true,
@@ -628,8 +628,8 @@
     "name": "Place de Clichy",
     "lineId": "67",
     "geolocation": [
-      48.88345565159549,
-      2.327374993410355
+      2.327374993410355,
+      48.88345565159549
     ],
     "accessibility": {
       "vision": true,
@@ -641,8 +641,8 @@
     "name": "Rome",
     "lineId": "67",
     "geolocation": [
-      48.88207083393704,
-      2.320398339309986
+      2.320398339309986,
+      48.88207083393704
     ],
     "accessibility": {
       "vision": true,
@@ -654,8 +654,8 @@
     "name": "Villiers",
     "lineId": "67",
     "geolocation": [
-      48.88132429394468,
-      2.316596761508817
+      2.316596761508817,
+      48.88132429394468
     ],
     "accessibility": {
       "vision": true,
@@ -667,8 +667,8 @@
     "name": "Monceau",
     "lineId": "67",
     "geolocation": [
-      48.88057689074842,
-      2.309415946164807
+      2.309415946164807,
+      48.88057689074842
     ],
     "accessibility": {
       "vision": true,
@@ -680,8 +680,8 @@
     "name": "Courcelles",
     "lineId": "67",
     "geolocation": [
-      48.87927215163157,
-      2.303298546682486
+      2.303298546682486,
+      48.87927215163157
     ],
     "accessibility": {
       "vision": true,
@@ -693,8 +693,8 @@
     "name": "Ternes",
     "lineId": "67",
     "geolocation": [
-      48.87822804050767,
-      2.298121432582184
+      2.298121432582184,
+      48.87822804050767
     ],
     "accessibility": {
       "vision": true,
@@ -706,8 +706,8 @@
     "name": "Charles de Gaulle-Etoile",
     "lineId": "67",
     "geolocation": [
-      48.87399384072475,
-      2.2946639618259113
+      2.2946639618259113,
+      48.87399384072475
     ],
     "accessibility": {
       "vision": true,
@@ -719,8 +719,8 @@
     "name": "Victor Hugo",
     "lineId": "67",
     "geolocation": [
-      48.869864912484076,
-      2.285226207250439
+      2.285226207250439,
+      48.869864912484076
     ],
     "accessibility": {
       "vision": true,
@@ -732,8 +732,8 @@
     "name": "Porte Dauphine (Marechal de Lattre de Tassigny)",
     "lineId": "67",
     "geolocation": [
-      48.87179221641751,
-      2.27486996119569
+      2.27486996119569,
+      48.87179221641751
     ],
     "accessibility": {
       "vision": true,
@@ -745,8 +745,8 @@
     "name": "Gallieni (Parc de Bagnolet)",
     "lineId": "68",
     "geolocation": [
-      48.86326252650054,
-      2.415975368499958
+      2.415975368499958,
+      48.86326252650054
     ],
     "accessibility": {
       "vision": true,
@@ -758,8 +758,8 @@
     "name": "Porte de Bagnolet",
     "lineId": "68",
     "geolocation": [
-      48.864336535483645,
-      2.408825376037728
+      2.408825376037728,
+      48.864336535483645
     ],
     "accessibility": {
       "vision": true,
@@ -771,8 +771,8 @@
     "name": "Gambetta",
     "lineId": "68",
     "geolocation": [
-      48.864782700687876,
-      2.398445833771861
+      2.398445833771861,
+      48.864782700687876
     ],
     "accessibility": {
       "vision": true,
@@ -784,8 +784,8 @@
     "name": "Pere-Lachaise",
     "lineId": "68",
     "geolocation": [
-      48.862945661667425,
-      2.38689240454308
+      2.38689240454308,
+      48.862945661667425
     ],
     "accessibility": {
       "vision": true,
@@ -797,8 +797,8 @@
     "name": "Rue Saint-Maur",
     "lineId": "68",
     "geolocation": [
-      48.86408940574645,
-      2.380899788552119
+      2.380899788552119,
+      48.86408940574645
     ],
     "accessibility": {
       "vision": true,
@@ -810,8 +810,8 @@
     "name": "Parmentier",
     "lineId": "68",
     "geolocation": [
-      48.86525985667316,
-      2.3747570817167682
+      2.3747570817167682,
+      48.86525985667316
     ],
     "accessibility": {
       "vision": true,
@@ -823,8 +823,8 @@
     "name": "Republique",
     "lineId": "68",
     "geolocation": [
-      48.86725794359829,
-      2.364037303639054
+      2.364037303639054,
+      48.86725794359829
     ],
     "accessibility": {
       "vision": true,
@@ -836,8 +836,8 @@
     "name": "Temple",
     "lineId": "68",
     "geolocation": [
-      48.866764167814516,
-      2.361571327032731
+      2.361571327032731,
+      48.866764167814516
     ],
     "accessibility": {
       "vision": true,
@@ -849,8 +849,8 @@
     "name": "Arts-et-Metiers",
     "lineId": "68",
     "geolocation": [
-      48.865551863634785,
-      2.356108155120312
+      2.356108155120312,
+      48.865551863634785
     ],
     "accessibility": {
       "vision": true,
@@ -862,8 +862,8 @@
     "name": "Reaumur-Sebastopol",
     "lineId": "68",
     "geolocation": [
-      48.86628035856129,
-      2.352484796837845
+      2.352484796837845,
+      48.86628035856129
     ],
     "accessibility": {
       "vision": true,
@@ -875,8 +875,8 @@
     "name": "Sentier",
     "lineId": "68",
     "geolocation": [
-      48.8673503814313,
-      2.34756723541508
+      2.34756723541508,
+      48.8673503814313
     ],
     "accessibility": {
       "vision": true,
@@ -888,8 +888,8 @@
     "name": "Bourse",
     "lineId": "68",
     "geolocation": [
-      48.86876179259638,
-      2.3406741288121
+      2.3406741288121,
+      48.86876179259638
     ],
     "accessibility": {
       "vision": true,
@@ -901,8 +901,8 @@
     "name": "Quatre Septembre",
     "lineId": "68",
     "geolocation": [
-      48.86966057219203,
-      2.336328281641711
+      2.336328281641711,
+      48.86966057219203
     ],
     "accessibility": {
       "vision": true,
@@ -914,8 +914,8 @@
     "name": "Opera",
     "lineId": "68",
     "geolocation": [
-      48.870720976292084,
-      2.332254743572958
+      2.332254743572958,
+      48.870720976292084
     ],
     "accessibility": {
       "vision": true,
@@ -927,8 +927,8 @@
     "name": "Havre-Caumartin",
     "lineId": "68",
     "geolocation": [
-      48.8734618906704,
-      2.328480484473476
+      2.328480484473476,
+      48.8734618906704
     ],
     "accessibility": {
       "vision": true,
@@ -940,8 +940,8 @@
     "name": "Saint-Lazare",
     "lineId": "68",
     "geolocation": [
-      48.87568150641968,
-      2.325591584819959
+      2.325591584819959,
+      48.87568150641968
     ],
     "accessibility": {
       "vision": true,
@@ -953,8 +953,8 @@
     "name": "Europe",
     "lineId": "68",
     "geolocation": [
-      48.87906043921274,
-      2.322974632405893
+      2.322974632405893,
+      48.87906043921274
     ],
     "accessibility": {
       "vision": true,
@@ -966,8 +966,8 @@
     "name": "Villiers",
     "lineId": "68",
     "geolocation": [
-      48.88140510041144,
-      2.316147050907411
+      2.316147050907411,
+      48.88140510041144
     ],
     "accessibility": {
       "vision": true,
@@ -979,8 +979,8 @@
     "name": "Malesherbes",
     "lineId": "68",
     "geolocation": [
-      48.88253647289218,
-      2.311009243005514
+      2.311009243005514,
+      48.88253647289218
     ],
     "accessibility": {
       "vision": true,
@@ -992,8 +992,8 @@
     "name": "Wagram",
     "lineId": "68",
     "geolocation": [
-      48.883712476037346,
-      2.305557757514303
+      2.305557757514303,
+      48.883712476037346
     ],
     "accessibility": {
       "vision": true,
@@ -1005,8 +1005,8 @@
     "name": "Pereire",
     "lineId": "68",
     "geolocation": [
-      48.8850310612536,
-      2.2971351115061642
+      2.2971351115061642,
+      48.8850310612536
     ],
     "accessibility": {
       "vision": true,
@@ -1018,8 +1018,8 @@
     "name": "Porte de Champerret",
     "lineId": "68",
     "geolocation": [
-      48.88573915969202,
-      2.291860620675534
+      2.291860620675534,
+      48.88573915969202
     ],
     "accessibility": {
       "vision": true,
@@ -1031,8 +1031,8 @@
     "name": "Louise Michel",
     "lineId": "68",
     "geolocation": [
-      48.889269622246026,
-      2.288055124803903
+      2.288055124803903,
+      48.889269622246026
     ],
     "accessibility": {
       "vision": true,
@@ -1044,8 +1044,8 @@
     "name": "Anatole-France",
     "lineId": "68",
     "geolocation": [
-      48.892018626328884,
-      2.285517444794484
+      2.285517444794484,
+      48.892018626328884
     ],
     "accessibility": {
       "vision": true,
@@ -1057,8 +1057,8 @@
     "name": "Pont de Levallois-Becon",
     "lineId": "68",
     "geolocation": [
-      48.89730990517954,
-      2.2807686428069
+      2.2807686428069,
+      48.89730990517954
     ],
     "accessibility": {
       "vision": true,
@@ -1070,8 +1070,8 @@
     "name": "Porte des Lilas",
     "lineId": "69",
     "geolocation": [
-      48.8769382235089,
-      2.406376566929781
+      2.406376566929781,
+      48.8769382235089
     ],
     "accessibility": {
       "vision": true,
@@ -1083,8 +1083,8 @@
     "name": "Saint-Fargeau",
     "lineId": "69",
     "geolocation": [
-      48.871699810971116,
-      2.404298724202182
+      2.404298724202182,
+      48.871699810971116
     ],
     "accessibility": {
       "vision": true,
@@ -1096,8 +1096,8 @@
     "name": "Pelleport",
     "lineId": "69",
     "geolocation": [
-      48.86822334760734,
-      2.401324380544102
+      2.401324380544102,
+      48.86822334760734
     ],
     "accessibility": {
       "vision": true,
@@ -1109,8 +1109,8 @@
     "name": "Gambetta",
     "lineId": "69",
     "geolocation": [
-      48.86503429801815,
-      2.398541486912242
+      2.398541486912242,
+      48.86503429801815
     ],
     "accessibility": {
       "vision": true,
@@ -1122,8 +1122,8 @@
     "name": "Porte de Clignancourt",
     "lineId": "70",
     "geolocation": [
-      48.89797017040717,
-      2.34398838343329
+      2.34398838343329,
+      48.89797017040717
     ],
     "accessibility": {
       "vision": true,
@@ -1135,8 +1135,8 @@
     "name": "Simplon",
     "lineId": "70",
     "geolocation": [
-      48.89412344466592,
-      2.347245444443029
+      2.347245444443029,
+      48.89412344466592
     ],
     "accessibility": {
       "vision": true,
@@ -1148,8 +1148,8 @@
     "name": "Marcadet-Poissonniers",
     "lineId": "70",
     "geolocation": [
-      48.891543930630554,
-      2.349371115381911
+      2.349371115381911,
+      48.891543930630554
     ],
     "accessibility": {
       "vision": true,
@@ -1161,8 +1161,8 @@
     "name": "Chateau Rouge",
     "lineId": "70",
     "geolocation": [
-      48.887086283050444,
-      2.349370073251378
+      2.349370073251378,
+      48.887086283050444
     ],
     "accessibility": {
       "vision": true,
@@ -1174,8 +1174,8 @@
     "name": "Barbes-Rochechouart",
     "lineId": "70",
     "geolocation": [
-      48.883931769934414,
-      2.349355708599646
+      2.349355708599646,
+      48.883931769934414
     ],
     "accessibility": {
       "vision": true,
@@ -1187,8 +1187,8 @@
     "name": "Gare du Nord",
     "lineId": "70",
     "geolocation": [
-      48.87974306422535,
-      2.354600810472233
+      2.354600810472233,
+      48.87974306422535
     ],
     "accessibility": {
       "vision": true,
@@ -1200,8 +1200,8 @@
     "name": "Gare de l'Est (Verdun)",
     "lineId": "70",
     "geolocation": [
-      48.87669583602489,
-      2.3579925105504023
+      2.3579925105504023,
+      48.87669583602489
     ],
     "accessibility": {
       "vision": true,
@@ -1213,8 +1213,8 @@
     "name": "Chateau d'Eau",
     "lineId": "70",
     "geolocation": [
-      48.8724541509199,
-      2.35605616813029
+      2.35605616813029,
+      48.8724541509199
     ],
     "accessibility": {
       "vision": true,
@@ -1226,8 +1226,8 @@
     "name": "Strasbourg-Saint-Denis",
     "lineId": "70",
     "geolocation": [
-      48.86963236518746,
-      2.35450206308924
+      2.35450206308924,
+      48.86963236518746
     ],
     "accessibility": {
       "vision": true,
@@ -1239,8 +1239,8 @@
     "name": "Reaumur-Sebastopol",
     "lineId": "70",
     "geolocation": [
-      48.86604666963103,
-      2.352620954015186
+      2.352620954015186,
+      48.86604666963103
     ],
     "accessibility": {
       "vision": true,
@@ -1252,8 +1252,8 @@
     "name": "Etienne Marcel",
     "lineId": "70",
     "geolocation": [
-      48.86371036646956,
-      2.348983196127101
+      2.348983196127101,
+      48.86371036646956
     ],
     "accessibility": {
       "vision": true,
@@ -1265,8 +1265,8 @@
     "name": "Les Halles",
     "lineId": "70",
     "geolocation": [
-      48.862011970720516,
-      2.346476451906206
+      2.346476451906206,
+      48.862011970720516
     ],
     "accessibility": {
       "vision": true,
@@ -1278,8 +1278,8 @@
     "name": "Chatelet",
     "lineId": "70",
     "geolocation": [
-      48.85830005598138,
-      2.347865087577108
+      2.347865087577108,
+      48.85830005598138
     ],
     "accessibility": {
       "vision": true,
@@ -1291,8 +1291,8 @@
     "name": "Cite",
     "lineId": "70",
     "geolocation": [
-      48.85568485028629,
-      2.3462029295287152
+      2.3462029295287152,
+      48.85568485028629
     ],
     "accessibility": {
       "vision": true,
@@ -1304,8 +1304,8 @@
     "name": "Saint-Michel",
     "lineId": "70",
     "geolocation": [
-      48.853599907885794,
-      2.343996241094012
+      2.343996241094012,
+      48.853599907885794
     ],
     "accessibility": {
       "vision": true,
@@ -1317,8 +1317,8 @@
     "name": "Odeon",
     "lineId": "70",
     "geolocation": [
-      48.85219804523044,
-      2.33878000304498
+      2.33878000304498,
+      48.85219804523044
     ],
     "accessibility": {
       "vision": true,
@@ -1330,8 +1330,8 @@
     "name": "Saint-Germain des Pres",
     "lineId": "70",
     "geolocation": [
-      48.85344723773834,
-      2.333046326044867
+      2.333046326044867,
+      48.85344723773834
     ],
     "accessibility": {
       "vision": true,
@@ -1343,8 +1343,8 @@
     "name": "Saint-Sulpice",
     "lineId": "70",
     "geolocation": [
-      48.8511463550549,
-      2.330962856366464
+      2.330962856366464,
+      48.8511463550549
     ],
     "accessibility": {
       "vision": true,
@@ -1356,8 +1356,8 @@
     "name": "Saint-Placide",
     "lineId": "70",
     "geolocation": [
-      48.84701184016864,
-      2.327055111355132
+      2.327055111355132,
+      48.84701184016864
     ],
     "accessibility": {
       "vision": true,
@@ -1369,8 +1369,8 @@
     "name": "Montparnasse-Bienvenue",
     "lineId": "70",
     "geolocation": [
-      48.844189508526796,
-      2.324441232433701
+      2.324441232433701,
+      48.844189508526796
     ],
     "accessibility": {
       "vision": true,
@@ -1382,8 +1382,8 @@
     "name": "Vavin",
     "lineId": "70",
     "geolocation": [
-      48.84205985758205,
-      2.328867050437212
+      2.328867050437212,
+      48.84205985758205
     ],
     "accessibility": {
       "vision": true,
@@ -1395,8 +1395,8 @@
     "name": "Raspail",
     "lineId": "70",
     "geolocation": [
-      48.83915698149679,
-      2.330474151162931
+      2.330474151162931,
+      48.83915698149679
     ],
     "accessibility": {
       "vision": true,
@@ -1408,8 +1408,8 @@
     "name": "Denfert-Rochereau",
     "lineId": "70",
     "geolocation": [
-      48.83427681284463,
-      2.332203797304786
+      2.332203797304786,
+      48.83427681284463
     ],
     "accessibility": {
       "vision": true,
@@ -1421,8 +1421,8 @@
     "name": "Mouton-Duvernet",
     "lineId": "70",
     "geolocation": [
-      48.832191599269656,
-      2.33040699262932
+      2.33040699262932,
+      48.832191599269656
     ],
     "accessibility": {
       "vision": true,
@@ -1434,8 +1434,8 @@
     "name": "Alesia",
     "lineId": "70",
     "geolocation": [
-      48.82806601968645,
-      2.326827420050836
+      2.326827420050836,
+      48.82806601968645
     ],
     "accessibility": {
       "vision": true,
@@ -1447,8 +1447,8 @@
     "name": "Porte d'Orleans (General Leclerc)",
     "lineId": "70",
     "geolocation": [
-      48.822817060234954,
-      2.325072625148001
+      2.325072625148001,
+      48.822817060234954
     ],
     "accessibility": {
       "vision": true,
@@ -1460,8 +1460,8 @@
     "name": "Mairie de Montrouge",
     "lineId": "70",
     "geolocation": [
-      48.81846633711334,
-      2.319643218617825
+      2.319643218617825,
+      48.81846633711334
     ],
     "accessibility": {
       "vision": true,
@@ -1473,8 +1473,8 @@
     "name": "Bobigny-Pablo-Picasso",
     "lineId": "71",
     "geolocation": [
-      48.907147312551565,
-      2.44945750453114
+      2.44945750453114,
+      48.907147312551565
     ],
     "accessibility": {
       "vision": true,
@@ -1486,8 +1486,8 @@
     "name": "Bobigny-Pantin (Raymond Queneau)",
     "lineId": "71",
     "geolocation": [
-      48.895799232549,
-      2.424857298397594
+      2.424857298397594,
+      48.895799232549
     ],
     "accessibility": {
       "vision": true,
@@ -1499,8 +1499,8 @@
     "name": "Eglise de Pantin",
     "lineId": "71",
     "geolocation": [
-      48.89363252797401,
-      2.41290026603005
+      2.41290026603005,
+      48.89363252797401
     ],
     "accessibility": {
       "vision": true,
@@ -1512,8 +1512,8 @@
     "name": "Hoche",
     "lineId": "71",
     "geolocation": [
-      48.891499383764256,
-      2.403124960656076
+      2.403124960656076,
+      48.891499383764256
     ],
     "accessibility": {
       "vision": true,
@@ -1525,8 +1525,8 @@
     "name": "Porte de Pantin",
     "lineId": "71",
     "geolocation": [
-      48.888583980971895,
-      2.392422875718541
+      2.392422875718541,
+      48.888583980971895
     ],
     "accessibility": {
       "vision": true,
@@ -1538,8 +1538,8 @@
     "name": "Ourcq",
     "lineId": "71",
     "geolocation": [
-      48.886923877470686,
-      2.386656434403455
+      2.386656434403455,
+      48.886923877470686
     ],
     "accessibility": {
       "vision": true,
@@ -1551,8 +1551,8 @@
     "name": "Laumiere",
     "lineId": "71",
     "geolocation": [
-      48.8849316105461,
-      2.379091246899838
+      2.379091246899838,
+      48.8849316105461
     ],
     "accessibility": {
       "vision": true,
@@ -1564,8 +1564,8 @@
     "name": "Jaures",
     "lineId": "71",
     "geolocation": [
-      48.88287621621258,
-      2.370586336165422
+      2.370586336165422,
+      48.88287621621258
     ],
     "accessibility": {
       "vision": true,
@@ -1577,8 +1577,8 @@
     "name": "Stalingrad",
     "lineId": "71",
     "geolocation": [
-      48.884153263123864,
-      2.367357477466386
+      2.367357477466386,
+      48.884153263123864
     ],
     "accessibility": {
       "vision": true,
@@ -1590,8 +1590,8 @@
     "name": "Gare du Nord",
     "lineId": "71",
     "geolocation": [
-      48.87938330261579,
-      2.356372081359306
+      2.356372081359306,
+      48.87938330261579
     ],
     "accessibility": {
       "vision": true,
@@ -1603,8 +1603,8 @@
     "name": "Gare de l'Est (Verdun)",
     "lineId": "71",
     "geolocation": [
-      48.87681262539273,
-      2.358251440082915
+      2.358251440082915,
+      48.87681262539273
     ],
     "accessibility": {
       "vision": true,
@@ -1616,8 +1616,8 @@
     "name": "Jacques-Bonsergent",
     "lineId": "71",
     "geolocation": [
-      48.87070082326957,
-      2.360578635587277
+      2.360578635587277,
+      48.87070082326957
     ],
     "accessibility": {
       "vision": true,
@@ -1629,8 +1629,8 @@
     "name": "Republique",
     "lineId": "71",
     "geolocation": [
-      48.86761748653104,
-      2.363819521433165
+      2.363819521433165,
+      48.86761748653104
     ],
     "accessibility": {
       "vision": true,
@@ -1642,8 +1642,8 @@
     "name": "Oberkampf",
     "lineId": "71",
     "geolocation": [
-      48.86490241594044,
-      2.367537013481096
+      2.367537013481096,
+      48.86490241594044
     ],
     "accessibility": {
       "vision": true,
@@ -1655,8 +1655,8 @@
     "name": "Richard-Lenoir",
     "lineId": "71",
     "geolocation": [
-      48.860488412845775,
-      2.371920437502139
+      2.371920437502139,
+      48.860488412845775
     ],
     "accessibility": {
       "vision": true,
@@ -1668,8 +1668,8 @@
     "name": "Breguet-Sabin",
     "lineId": "71",
     "geolocation": [
-      48.856803948960916,
-      2.37059681963187
+      2.37059681963187,
+      48.856803948960916
     ],
     "accessibility": {
       "vision": true,
@@ -1681,8 +1681,8 @@
     "name": "Bastille",
     "lineId": "71",
     "geolocation": [
-      48.85338911229207,
-      2.369164602208766
+      2.369164602208766,
+      48.85338911229207
     ],
     "accessibility": {
       "vision": true,
@@ -1694,8 +1694,8 @@
     "name": "Quai de la Rapee",
     "lineId": "71",
     "geolocation": [
-      48.84596603240645,
-      2.366913179738311
+      2.366913179738311,
+      48.84596603240645
     ],
     "accessibility": {
       "vision": true,
@@ -1707,8 +1707,8 @@
     "name": "Gare d'Austerlitz",
     "lineId": "71",
     "geolocation": [
-      48.84341422414371,
-      2.364188392867642
+      2.364188392867642,
+      48.84341422414371
     ],
     "accessibility": {
       "vision": true,
@@ -1720,8 +1720,8 @@
     "name": "Saint-Marcel",
     "lineId": "71",
     "geolocation": [
-      48.838516743515164,
-      2.360727550361784
+      2.360727550361784,
+      48.838516743515164
     ],
     "accessibility": {
       "vision": true,
@@ -1733,8 +1733,8 @@
     "name": "Campo-Formio",
     "lineId": "71",
     "geolocation": [
-      48.835551216675434,
-      2.358752095191401
+      2.358752095191401,
+      48.835551216675434
     ],
     "accessibility": {
       "vision": true,
@@ -1746,8 +1746,8 @@
     "name": "Place d'Italie",
     "lineId": "71",
     "geolocation": [
-      48.8312826555064,
-      2.355455870364506
+      2.355455870364506,
+      48.8312826555064
     ],
     "accessibility": {
       "vision": true,
@@ -1759,8 +1759,8 @@
     "name": "Nation",
     "lineId": "72",
     "geolocation": [
-      48.8474552623419,
-      2.397771743610895
+      2.397771743610895,
+      48.8474552623419
     ],
     "accessibility": {
       "vision": true,
@@ -1772,8 +1772,8 @@
     "name": "Picpus",
     "lineId": "72",
     "geolocation": [
-      48.84532311461395,
-      2.401786313760686
+      2.401786313760686,
+      48.84532311461395
     ],
     "accessibility": {
       "vision": true,
@@ -1785,8 +1785,8 @@
     "name": "Bel-Air",
     "lineId": "72",
     "geolocation": [
-      48.84143200664826,
-      2.400869193380093
+      2.400869193380093,
+      48.84143200664826
     ],
     "accessibility": {
       "vision": true,
@@ -1798,8 +1798,8 @@
     "name": "Daumesnil (Felix Eboue)",
     "lineId": "72",
     "geolocation": [
-      48.83937646312499,
-      2.395788060415649
+      2.395788060415649,
+      48.83937646312499
     ],
     "accessibility": {
       "vision": true,
@@ -1811,8 +1811,8 @@
     "name": "Dugommier",
     "lineId": "72",
     "geolocation": [
-      48.83887615167852,
-      2.389347387570293
+      2.389347387570293,
+      48.83887615167852
     ],
     "accessibility": {
       "vision": true,
@@ -1824,8 +1824,8 @@
     "name": "Bercy",
     "lineId": "72",
     "geolocation": [
-      48.84019224440348,
-      2.379477257266058
+      2.379477257266058,
+      48.84019224440348
     ],
     "accessibility": {
       "vision": true,
@@ -1837,8 +1837,8 @@
     "name": "Quai de la Gare",
     "lineId": "72",
     "geolocation": [
-      48.83761467578531,
-      2.373852115680497
+      2.373852115680497,
+      48.83761467578531
     ],
     "accessibility": {
       "vision": true,
@@ -1850,8 +1850,8 @@
     "name": "Chevaleret",
     "lineId": "72",
     "geolocation": [
-      48.83496497071995,
-      2.368091345879397
+      2.368091345879397,
+      48.83496497071995
     ],
     "accessibility": {
       "vision": true,
@@ -1863,8 +1863,8 @@
     "name": "Nationale",
     "lineId": "72",
     "geolocation": [
-      48.832881288678834,
-      2.361909408016197
+      2.361909408016197,
+      48.832881288678834
     ],
     "accessibility": {
       "vision": true,
@@ -1876,8 +1876,8 @@
     "name": "Place d'Italie",
     "lineId": "72",
     "geolocation": [
-      48.831111838257115,
-      2.355796145713064
+      2.355796145713064,
+      48.831111838257115
     ],
     "accessibility": {
       "vision": true,
@@ -1889,8 +1889,8 @@
     "name": "Corvisart",
     "lineId": "72",
     "geolocation": [
-      48.829863252112794,
-      2.3506227279320893
+      2.3506227279320893,
+      48.829863252112794
     ],
     "accessibility": {
       "vision": true,
@@ -1902,8 +1902,8 @@
     "name": "Glaciere",
     "lineId": "72",
     "geolocation": [
-      48.8312479519874,
-      2.3431220758229863
+      2.3431220758229863,
+      48.8312479519874
     ],
     "accessibility": {
       "vision": true,
@@ -1915,8 +1915,8 @@
     "name": "Saint-Jacques",
     "lineId": "72",
     "geolocation": [
-      48.83299169177581,
-      2.336682896644349
+      2.336682896644349,
+      48.83299169177581
     ],
     "accessibility": {
       "vision": true,
@@ -1928,8 +1928,8 @@
     "name": "Denfert-Rochereau",
     "lineId": "72",
     "geolocation": [
-      48.833998236748336,
-      2.3332385011588013
+      2.3332385011588013,
+      48.833998236748336
     ],
     "accessibility": {
       "vision": true,
@@ -1941,8 +1941,8 @@
     "name": "Raspail",
     "lineId": "72",
     "geolocation": [
-      48.838878378565504,
-      2.330678419288263
+      2.330678419288263,
+      48.838878378565504
     ],
     "accessibility": {
       "vision": true,
@@ -1954,8 +1954,8 @@
     "name": "Edgar-Quinet",
     "lineId": "72",
     "geolocation": [
-      48.84056772620437,
-      2.326402815222764
+      2.326402815222764,
+      48.84056772620437
     ],
     "accessibility": {
       "vision": true,
@@ -1967,8 +1967,8 @@
     "name": "Montparnasse-Bienvenue",
     "lineId": "72",
     "geolocation": [
-      48.84187033630407,
-      2.321228374003564
+      2.321228374003564,
+      48.84187033630407
     ],
     "accessibility": {
       "vision": true,
@@ -1980,8 +1980,8 @@
     "name": "Pasteur",
     "lineId": "72",
     "geolocation": [
-      48.842012804057696,
-      2.31329004383549
+      2.31329004383549,
+      48.842012804057696
     ],
     "accessibility": {
       "vision": true,
@@ -1993,8 +1993,8 @@
     "name": "Sevres-Lecourbe",
     "lineId": "72",
     "geolocation": [
-      48.84499615085685,
-      2.310864830044154
+      2.310864830044154,
+      48.84499615085685
     ],
     "accessibility": {
       "vision": true,
@@ -2006,8 +2006,8 @@
     "name": "Cambronne",
     "lineId": "72",
     "geolocation": [
-      48.8476991081708,
-      2.302039143669263
+      2.302039143669263,
+      48.8476991081708
     ],
     "accessibility": {
       "vision": true,
@@ -2019,8 +2019,8 @@
     "name": "La Motte-Picquet-Grenelle",
     "lineId": "72",
     "geolocation": [
-      48.849018928349764,
-      2.297762160707931
+      2.297762160707931,
+      48.849018928349764
     ],
     "accessibility": {
       "vision": true,
@@ -2032,8 +2032,8 @@
     "name": "Dupleix",
     "lineId": "72",
     "geolocation": [
-      48.85039257831968,
-      2.293648336230538
+      2.293648336230538,
+      48.85039257831968
     ],
     "accessibility": {
       "vision": true,
@@ -2045,8 +2045,8 @@
     "name": "Bir-Hakeim (Grenelle)",
     "lineId": "72",
     "geolocation": [
-      48.854327218552356,
-      2.2888101037361173
+      2.2888101037361173,
+      48.854327218552356
     ],
     "accessibility": {
       "vision": true,
@@ -2058,8 +2058,8 @@
     "name": "Passy",
     "lineId": "72",
     "geolocation": [
-      48.857534382513876,
-      2.28559270581709
+      2.28559270581709,
+      48.857534382513876
     ],
     "accessibility": {
       "vision": true,
@@ -2071,8 +2071,8 @@
     "name": "Trocadero",
     "lineId": "72",
     "geolocation": [
-      48.862666905879294,
-      2.287263061553262
+      2.287263061553262,
+      48.862666905879294
     ],
     "accessibility": {
       "vision": true,
@@ -2084,8 +2084,8 @@
     "name": "Boissiere",
     "lineId": "72",
     "geolocation": [
-      48.86685615476034,
-      2.290038073445008
+      2.290038073445008,
+      48.86685615476034
     ],
     "accessibility": {
       "vision": true,
@@ -2097,8 +2097,8 @@
     "name": "Kleber",
     "lineId": "72",
     "geolocation": [
-      48.87130614908782,
-      2.293331020896217
+      2.293331020896217,
+      48.87130614908782
     ],
     "accessibility": {
       "vision": true,
@@ -2110,8 +2110,8 @@
     "name": "Charles de Gaulle-Etoile",
     "lineId": "72",
     "geolocation": [
-      48.87371526831065,
-      2.294759562849878
+      2.294759562849878,
+      48.87371526831065
     ],
     "accessibility": {
       "vision": true,
@@ -2123,8 +2123,8 @@
     "name": "La Courneuve-8-Mai-1945",
     "lineId": "73",
     "geolocation": [
-      48.92051450668569,
-      2.410225779120198
+      2.410225779120198,
+      48.92051450668569
     ],
     "accessibility": {
       "vision": true,
@@ -2136,8 +2136,8 @@
     "name": "Fort d'Aubervilliers",
     "lineId": "73",
     "geolocation": [
-      48.91405674514657,
-      2.403576334511007
+      2.403576334511007,
+      48.91405674514657
     ],
     "accessibility": {
       "vision": true,
@@ -2149,8 +2149,8 @@
     "name": "Aubervilliers Pantin (4 Chemins)",
     "lineId": "73",
     "geolocation": [
-      48.903898047529474,
-      2.392480078672474
+      2.392480078672474,
+      48.903898047529474
     ],
     "accessibility": {
       "vision": true,
@@ -2162,8 +2162,8 @@
     "name": "Porte de la Villette",
     "lineId": "73",
     "geolocation": [
-      48.89752915689145,
-      2.385644230127304
+      2.385644230127304,
+      48.89752915689145
     ],
     "accessibility": {
       "vision": true,
@@ -2175,8 +2175,8 @@
     "name": "Corentin-Cariou",
     "lineId": "73",
     "geolocation": [
-      48.89468154198812,
-      2.382302193974242
+      2.382302193974242,
+      48.89468154198812
     ],
     "accessibility": {
       "vision": true,
@@ -2188,8 +2188,8 @@
     "name": "Crimee",
     "lineId": "73",
     "geolocation": [
-      48.89028877504466,
-      2.376778648925364
+      2.376778648925364,
+      48.89028877504466
     ],
     "accessibility": {
       "vision": true,
@@ -2201,8 +2201,8 @@
     "name": "Riquet",
     "lineId": "73",
     "geolocation": [
-      48.8883932319013,
-      2.374433108884994
+      2.374433108884994,
+      48.8883932319013
     ],
     "accessibility": {
       "vision": true,
@@ -2214,8 +2214,8 @@
     "name": "Stalingrad",
     "lineId": "73",
     "geolocation": [
-      48.88407198636439,
-      2.368870062777794
+      2.368870062777794,
+      48.88407198636439
     ],
     "accessibility": {
       "vision": true,
@@ -2227,8 +2227,8 @@
     "name": "Louis Blanc",
     "lineId": "73",
     "geolocation": [
-      48.88090042815109,
-      2.365107218264337
+      2.365107218264337,
+      48.88090042815109
     ],
     "accessibility": {
       "vision": true,
@@ -2240,8 +2240,8 @@
     "name": "Chateau Landon",
     "lineId": "73",
     "geolocation": [
-      48.87845656683119,
-      2.362053716248899
+      2.362053716248899,
+      48.87845656683119
     ],
     "accessibility": {
       "vision": true,
@@ -2253,8 +2253,8 @@
     "name": "Gare de l'Est (Verdun)",
     "lineId": "73",
     "geolocation": [
-      48.8764170528791,
-      2.358987046456327
+      2.358987046456327,
+      48.8764170528791
     ],
     "accessibility": {
       "vision": true,
@@ -2266,8 +2266,8 @@
     "name": "Poissonniere",
     "lineId": "73",
     "geolocation": [
-      48.877353095288015,
-      2.349381423952599
+      2.349381423952599,
+      48.877353095288015
     ],
     "accessibility": {
       "vision": true,
@@ -2279,8 +2279,8 @@
     "name": "Cadet",
     "lineId": "73",
     "geolocation": [
-      48.875825718038186,
-      2.343345124573273
+      2.343345124573273,
+      48.875825718038186
     ],
     "accessibility": {
       "vision": true,
@@ -2292,8 +2292,8 @@
     "name": "Le Peletier",
     "lineId": "73",
     "geolocation": [
-      48.87496305802612,
-      2.340156790849205
+      2.340156790849205,
+      48.87496305802612
     ],
     "accessibility": {
       "vision": true,
@@ -2305,8 +2305,8 @@
     "name": "Chaussee d'Antin (La Fayette)",
     "lineId": "73",
     "geolocation": [
-      48.872985824665165,
-      2.33342622405285
+      2.33342622405285,
+      48.872985824665165
     ],
     "accessibility": {
       "vision": true,
@@ -2318,8 +2318,8 @@
     "name": "Opera",
     "lineId": "73",
     "geolocation": [
-      48.870559216544876,
-      2.332554482049589
+      2.332554482049589,
+      48.870559216544876
     ],
     "accessibility": {
       "vision": true,
@@ -2331,8 +2331,8 @@
     "name": "Pyramides",
     "lineId": "73",
     "geolocation": [
-      48.86649698703855,
-      2.334094215259097
+      2.334094215259097,
+      48.86649698703855
     ],
     "accessibility": {
       "vision": true,
@@ -2344,8 +2344,8 @@
     "name": "Palais-Royal (Musee du Louvre)",
     "lineId": "73",
     "geolocation": [
-      48.86338738506552,
-      2.335483836772368
+      2.335483836772368,
+      48.86338738506552
     ],
     "accessibility": {
       "vision": true,
@@ -2357,8 +2357,8 @@
     "name": "Pont Neuf",
     "lineId": "73",
     "geolocation": [
-      48.85853410228574,
-      2.342117238665998
+      2.342117238665998,
+      48.85853410228574
     ],
     "accessibility": {
       "vision": true,
@@ -2370,8 +2370,8 @@
     "name": "Chatelet",
     "lineId": "73",
     "geolocation": [
-      48.85720364550444,
-      2.34722471105584
+      2.34722471105584,
+      48.85720364550444
     ],
     "accessibility": {
       "vision": true,
@@ -2383,8 +2383,8 @@
     "name": "Pont Marie (Cite des Arts)",
     "lineId": "73",
     "geolocation": [
-      48.85346358569476,
-      2.357383972809163
+      2.357383972809163,
+      48.85346358569476
     ],
     "accessibility": {
       "vision": true,
@@ -2396,8 +2396,8 @@
     "name": "Sully-Morland",
     "lineId": "73",
     "geolocation": [
-      48.85079359474211,
-      2.361236993714298
+      2.361236993714298,
+      48.85079359474211
     ],
     "accessibility": {
       "vision": true,
@@ -2409,8 +2409,8 @@
     "name": "Jussieu",
     "lineId": "73",
     "geolocation": [
-      48.8459684322046,
-      2.354807392694218
+      2.354807392694218,
+      48.8459684322046
     ],
     "accessibility": {
       "vision": true,
@@ -2422,8 +2422,8 @@
     "name": "Place Monge (Jardin des Plantes)",
     "lineId": "73",
     "geolocation": [
-      48.843164692766834,
-      2.352110362415096
+      2.352110362415096,
+      48.843164692766834
     ],
     "accessibility": {
       "vision": true,
@@ -2435,8 +2435,8 @@
     "name": "Censier-Daubenton",
     "lineId": "73",
     "geolocation": [
-      48.840594300001605,
-      2.351755612946688
+      2.351755612946688,
+      48.840594300001605
     ],
     "accessibility": {
       "vision": true,
@@ -2448,8 +2448,8 @@
     "name": "Les Gobelins",
     "lineId": "73",
     "geolocation": [
-      48.83612743975252,
-      2.352081117835573
+      2.352081117835573,
+      48.83612743975252
     ],
     "accessibility": {
       "vision": true,
@@ -2461,8 +2461,8 @@
     "name": "Place d'Italie",
     "lineId": "73",
     "geolocation": [
-      48.831552302643125,
-      2.355333443219045
+      2.355333443219045,
+      48.831552302643125
     ],
     "accessibility": {
       "vision": true,
@@ -2474,8 +2474,8 @@
     "name": "Tolbiac",
     "lineId": "73",
     "geolocation": [
-      48.82615945391136,
-      2.357019466189125
+      2.357019466189125,
+      48.82615945391136
     ],
     "accessibility": {
       "vision": true,
@@ -2487,8 +2487,8 @@
     "name": "Maison Blanche",
     "lineId": "73",
     "geolocation": [
-      48.82287877506322,
-      2.358079894290851
+      2.358079894290851,
+      48.82287877506322
     ],
     "accessibility": {
       "vision": true,
@@ -2500,8 +2500,8 @@
     "name": "Porte d'Italie",
     "lineId": "73",
     "geolocation": [
-      48.8187170251155,
-      2.360500832805366
+      2.360500832805366,
+      48.8187170251155
     ],
     "accessibility": {
       "vision": true,
@@ -2513,8 +2513,8 @@
     "name": "Porte de Choisy",
     "lineId": "73",
     "geolocation": [
-      48.81990244616168,
-      2.364965598290819
+      2.364965598290819,
+      48.81990244616168
     ],
     "accessibility": {
       "vision": true,
@@ -2526,8 +2526,8 @@
     "name": "Porte d'Ivry",
     "lineId": "73",
     "geolocation": [
-      48.82135736230755,
-      2.369308237223248
+      2.369308237223248,
+      48.82135736230755
     ],
     "accessibility": {
       "vision": true,
@@ -2539,8 +2539,8 @@
     "name": "Pierre et Marie Curie",
     "lineId": "73",
     "geolocation": [
-      48.81591718160038,
-      2.377878816483871
+      2.377878816483871,
+      48.81591718160038
     ],
     "accessibility": {
       "vision": true,
@@ -2552,8 +2552,8 @@
     "name": "Mairie d'Ivry",
     "lineId": "73",
     "geolocation": [
-      48.81121453549021,
-      2.383508928732683
+      2.383508928732683,
+      48.81121453549021
     ],
     "accessibility": {
       "vision": true,
@@ -2565,8 +2565,8 @@
     "name": "Le Kremlin-Bicetre",
     "lineId": "73",
     "geolocation": [
-      48.810385125129486,
-      2.361830683091131
+      2.361830683091131,
+      48.810385125129486
     ],
     "accessibility": {
       "vision": true,
@@ -2578,8 +2578,8 @@
     "name": "Villejuif-Leo Lagrange",
     "lineId": "73",
     "geolocation": [
-      48.80376966328267,
-      2.363909306389043
+      2.363909306389043,
+      48.80376966328267
     ],
     "accessibility": {
       "vision": true,
@@ -2591,8 +2591,8 @@
     "name": "Villejuif-Paul Vaillant Couturier (Hopital Paul Brousse)",
     "lineId": "73",
     "geolocation": [
-      48.79599413239317,
-      2.36823145191568
+      2.36823145191568,
+      48.79599413239317
     ],
     "accessibility": {
       "vision": true,
@@ -2604,8 +2604,8 @@
     "name": "Villejuif-Louis Aragon",
     "lineId": "73",
     "geolocation": [
-      48.786638011119834,
-      2.367110527381649
+      2.367110527381649,
+      48.786638011119834
     ],
     "accessibility": {
       "vision": true,
@@ -2617,8 +2617,8 @@
     "name": "Pre-Saint-Gervais",
     "lineId": "74",
     "geolocation": [
-      48.88015993211241,
-      2.3985866218697662
+      2.3985866218697662,
+      48.88015993211241
     ],
     "accessibility": {
       "vision": true,
@@ -2630,8 +2630,8 @@
     "name": "Botzaris",
     "lineId": "74",
     "geolocation": [
-      48.87960708893313,
-      2.389415569653207
+      2.389415569653207,
+      48.87960708893313
     ],
     "accessibility": {
       "vision": true,
@@ -2643,8 +2643,8 @@
     "name": "Buttes-Chaumont",
     "lineId": "74",
     "geolocation": [
-      48.877803956007845,
-      2.381211099735988
+      2.381211099735988,
+      48.877803956007845
     ],
     "accessibility": {
       "vision": true,
@@ -2656,8 +2656,8 @@
     "name": "Bolivar",
     "lineId": "74",
     "geolocation": [
-      48.880790122828465,
-      2.374155126662647
+      2.374155126662647,
+      48.880790122828465
     ],
     "accessibility": {
       "vision": true,
@@ -2669,8 +2669,8 @@
     "name": "Jaures",
     "lineId": "74",
     "geolocation": [
-      48.882328024919246,
-      2.370476968769921
+      2.370476968769921,
+      48.882328024919246
     ],
     "accessibility": {
       "vision": true,
@@ -2682,8 +2682,8 @@
     "name": "Louis Blanc",
     "lineId": "74",
     "geolocation": [
-      48.8814934288588,
-      2.365775242349614
+      2.365775242349614,
+      48.8814934288588
     ],
     "accessibility": {
       "vision": true,
@@ -2695,8 +2695,8 @@
     "name": "Balard",
     "lineId": "172562",
     "geolocation": [
-      48.836814988805976,
-      2.2786833464502703
+      2.2786833464502703,
+      48.836814988805976
     ],
     "accessibility": {
       "vision": true,
@@ -2708,8 +2708,8 @@
     "name": "Lourmel",
     "lineId": "172562",
     "geolocation": [
-      48.83866812903008,
-      2.282248488384098
+      2.282248488384098,
+      48.83866812903008
     ],
     "accessibility": {
       "vision": true,
@@ -2721,8 +2721,8 @@
     "name": "Boucicaut",
     "lineId": "172562",
     "geolocation": [
-      48.84102535532167,
-      2.287923867330867
+      2.287923867330867,
+      48.84102535532167
     ],
     "accessibility": {
       "vision": true,
@@ -2734,8 +2734,8 @@
     "name": "Felix Faure",
     "lineId": "172562",
     "geolocation": [
-      48.84282456767407,
-      2.292224966220515
+      2.292224966220515,
+      48.84282456767407
     ],
     "accessibility": {
       "vision": true,
@@ -2747,8 +2747,8 @@
     "name": "Commerce",
     "lineId": "172562",
     "geolocation": [
-      48.84461367199405,
-      2.293802980169146
+      2.293802980169146,
+      48.84461367199405
     ],
     "accessibility": {
       "vision": true,
@@ -2760,8 +2760,8 @@
     "name": "La Motte-Picquet-Grenelle",
     "lineId": "172562",
     "geolocation": [
-      48.848803206044934,
-      2.29769423466391
+      2.29769423466391,
+      48.848803206044934
     ],
     "accessibility": {
       "vision": true,
@@ -2773,8 +2773,8 @@
     "name": "Ecole Militaire",
     "lineId": "172562",
     "geolocation": [
-      48.85426092155411,
-      2.305439560539011
+      2.305439560539011,
+      48.85426092155411
     ],
     "accessibility": {
       "vision": true,
@@ -2786,8 +2786,8 @@
     "name": "La Tour-Maubourg",
     "lineId": "172562",
     "geolocation": [
-      48.85722786064964,
-      2.309796225827356
+      2.309796225827356,
+      48.85722786064964
     ],
     "accessibility": {
       "vision": true,
@@ -2799,8 +2799,8 @@
     "name": "Invalides",
     "lineId": "172562",
     "geolocation": [
-      48.86109346762053,
-      2.314643355346437
+      2.314643355346437,
+      48.86109346762053
     ],
     "accessibility": {
       "vision": true,
@@ -2812,8 +2812,8 @@
     "name": "Concorde",
     "lineId": "172562",
     "geolocation": [
-      48.865507221530486,
-      2.320362855861128
+      2.320362855861128,
+      48.865507221530486
     ],
     "accessibility": {
       "vision": true,
@@ -2825,8 +2825,8 @@
     "name": "Madeleine",
     "lineId": "172562",
     "geolocation": [
-      48.86950712762907,
-      2.324680199591515
+      2.324680199591515,
+      48.86950712762907
     ],
     "accessibility": {
       "vision": true,
@@ -2838,8 +2838,8 @@
     "name": "Opera",
     "lineId": "172562",
     "geolocation": [
-      48.87063108014849,
-      2.331737048361137
+      2.331737048361137,
+      48.87063108014849
     ],
     "accessibility": {
       "vision": true,
@@ -2851,8 +2851,8 @@
     "name": "Richelieu-Drouot",
     "lineId": "172562",
     "geolocation": [
-      48.87200623896137,
-      2.339911390610416
+      2.339911390610416,
+      48.87200623896137
     ],
     "accessibility": {
       "vision": true,
@@ -2864,8 +2864,8 @@
     "name": "Grands Boulevards",
     "lineId": "172562",
     "geolocation": [
-      48.87157474359305,
-      2.342895031984659
+      2.342895031984659,
+      48.87157474359305
     ],
     "accessibility": {
       "vision": true,
@@ -2877,8 +2877,8 @@
     "name": "Bonne Nouvelle",
     "lineId": "172562",
     "geolocation": [
-      48.87057675358199,
-      2.348494293710928
+      2.348494293710928,
+      48.87057675358199
     ],
     "accessibility": {
       "vision": true,
@@ -2890,8 +2890,8 @@
     "name": "Strasbourg-Saint-Denis",
     "lineId": "172562",
     "geolocation": [
-      48.869380780106006,
-      2.354079652196349
+      2.354079652196349,
+      48.869380780106006
     ],
     "accessibility": {
       "vision": true,
@@ -2903,8 +2903,8 @@
     "name": "Republique",
     "lineId": "172562",
     "geolocation": [
-      48.86767151899055,
-      2.363329120776082
+      2.363329120776082,
+      48.86767151899055
     ],
     "accessibility": {
       "vision": true,
@@ -2916,8 +2916,8 @@
     "name": "Filles du Calvaire",
     "lineId": "172562",
     "geolocation": [
-      48.86307817635541,
-      2.36674588358473
+      2.36674588358473,
+      48.86307817635541
     ],
     "accessibility": {
       "vision": true,
@@ -2929,8 +2929,8 @@
     "name": "Saint-Sebastien-Froissart",
     "lineId": "172562",
     "geolocation": [
-      48.86097499718719,
-      2.367262295022941
+      2.367262295022941,
+      48.86097499718719
     ],
     "accessibility": {
       "vision": true,
@@ -2942,8 +2942,8 @@
     "name": "Chemin Vert",
     "lineId": "172562",
     "geolocation": [
-      48.85758654446453,
-      2.368036694948375
+      2.368036694948375,
+      48.85758654446453
     ],
     "accessibility": {
       "vision": true,
@@ -2955,8 +2955,8 @@
     "name": "Bastille",
     "lineId": "172562",
     "geolocation": [
-      48.85373962301297,
-      2.369164817861832
+      2.369164817861832,
+      48.85373962301297
     ],
     "accessibility": {
       "vision": true,
@@ -2968,8 +2968,8 @@
     "name": "Ledru-Rollin",
     "lineId": "172562",
     "geolocation": [
-      48.85119416536367,
-      2.375931737012894
+      2.375931737012894,
+      48.85119416536367
     ],
     "accessibility": {
       "vision": true,
@@ -2981,8 +2981,8 @@
     "name": "Faidherbe-Chaligny",
     "lineId": "172562",
     "geolocation": [
-      48.85006766800271,
-      2.384428770741631
+      2.384428770741631,
+      48.85006766800271
     ],
     "accessibility": {
       "vision": true,
@@ -2994,8 +2994,8 @@
     "name": "Reuilly-Diderot",
     "lineId": "172562",
     "geolocation": [
-      48.84721750107955,
-      2.3872041772135972
+      2.3872041772135972,
+      48.84721750107955
     ],
     "accessibility": {
       "vision": true,
@@ -3007,8 +3007,8 @@
     "name": "Montgallet",
     "lineId": "172562",
     "geolocation": [
-      48.844403092096876,
-      2.39025165315774
+      2.39025165315774,
+      48.844403092096876
     ],
     "accessibility": {
       "vision": true,
@@ -3020,8 +3020,8 @@
     "name": "Daumesnil (Felix Eboue)",
     "lineId": "172562",
     "geolocation": [
-      48.83968214020875,
-      2.395584170346655
+      2.395584170346655,
+      48.83968214020875
     ],
     "accessibility": {
       "vision": true,
@@ -3033,8 +3033,8 @@
     "name": "Michel Bizot",
     "lineId": "172562",
     "geolocation": [
-      48.836991037652965,
-      2.402919606870042
+      2.402919606870042,
+      48.836991037652965
     ],
     "accessibility": {
       "vision": true,
@@ -3046,8 +3046,8 @@
     "name": "Porte Doree",
     "lineId": "172562",
     "geolocation": [
-      48.83549725282465,
-      2.406185212214934
+      2.406185212214934,
+      48.83549725282465
     ],
     "accessibility": {
       "vision": true,
@@ -3059,8 +3059,8 @@
     "name": "Porte de Charenton",
     "lineId": "172562",
     "geolocation": [
-      48.83266034648216,
-      2.40046363844978
+      2.40046363844978,
+      48.83266034648216
     ],
     "accessibility": {
       "vision": true,
@@ -3072,8 +3072,8 @@
     "name": "Liberte",
     "lineId": "172562",
     "geolocation": [
-      48.82563711172796,
-      2.407410805426122
+      2.407410805426122,
+      48.82563711172796
     ],
     "accessibility": {
       "vision": true,
@@ -3085,8 +3085,8 @@
     "name": "Charenton-Ecoles",
     "lineId": "172562",
     "geolocation": [
-      48.821489819145576,
-      2.413856762331106
+      2.413856762331106,
+      48.821489819145576
     ],
     "accessibility": {
       "vision": true,
@@ -3098,8 +3098,8 @@
     "name": "Ecole Veterinaire de Maisons-Alfort",
     "lineId": "172562",
     "geolocation": [
-      48.81507632012976,
-      2.421631766730663
+      2.421631766730663,
+      48.81507632012976
     ],
     "accessibility": {
       "vision": true,
@@ -3111,8 +3111,8 @@
     "name": "Maisons-Alfort-Stade",
     "lineId": "172562",
     "geolocation": [
-      48.808225347352376,
-      2.4362758210511313
+      2.4362758210511313,
+      48.808225347352376
     ],
     "accessibility": {
       "vision": true,
@@ -3124,8 +3124,8 @@
     "name": "Maisons-Alfort-Les Juilliottes",
     "lineId": "172562",
     "geolocation": [
-      48.80250044183061,
-      2.446183618559453
+      2.446183618559453,
+      48.80250044183061
     ],
     "accessibility": {
       "vision": true,
@@ -3137,8 +3137,8 @@
     "name": "Creteil-L'Echat (Hopital Henri Mondor)",
     "lineId": "172562",
     "geolocation": [
-      48.79660129757846,
-      2.4495315243760762
+      2.4495315243760762,
+      48.79660129757846
     ],
     "accessibility": {
       "vision": true,
@@ -3150,8 +3150,8 @@
     "name": "Creteil-Universite",
     "lineId": "172562",
     "geolocation": [
-      48.78972431608003,
-      2.450836106390663
+      2.450836106390663,
+      48.78972431608003
     ],
     "accessibility": {
       "vision": true,
@@ -3163,8 +3163,8 @@
     "name": "Creteil-Prefecture (Hotel de Ville)",
     "lineId": "172562",
     "geolocation": [
-      48.779757257844594,
-      2.459314291078828
+      2.459314291078828,
+      48.779757257844594
     ],
     "accessibility": {
       "vision": true,
@@ -3176,8 +3176,8 @@
     "name": "Pointe du Lac",
     "lineId": "172562",
     "geolocation": [
-      48.76876863574218,
-      2.464319398948263
+      2.464319398948263,
+      48.76876863574218
     ],
     "accessibility": {
       "vision": true,
@@ -3189,8 +3189,8 @@
     "name": "Pont de Sevres",
     "lineId": "76",
     "geolocation": [
-      48.829690338022736,
-      2.230528434192334
+      2.230528434192334,
+      48.829690338022736
     ],
     "accessibility": {
       "vision": true,
@@ -3202,8 +3202,8 @@
     "name": "Billancourt",
     "lineId": "76",
     "geolocation": [
-      48.832087644282545,
-      2.238160776875514
+      2.238160776875514,
+      48.832087644282545
     ],
     "accessibility": {
       "vision": true,
@@ -3215,8 +3215,8 @@
     "name": "Marcel Sembat",
     "lineId": "76",
     "geolocation": [
-      48.833808586980275,
-      2.243480614417395
+      2.243480614417395,
+      48.833808586980275
     ],
     "accessibility": {
       "vision": true,
@@ -3228,8 +3228,8 @@
     "name": "Porte de Saint-Cloud",
     "lineId": "76",
     "geolocation": [
-      48.837565334473624,
-      2.255591274447898
+      2.255591274447898,
+      48.837565334473624
     ],
     "accessibility": {
       "vision": true,
@@ -3241,8 +3241,8 @@
     "name": "Exelmans",
     "lineId": "76",
     "geolocation": [
-      48.84290697853592,
-      2.260144397880895
+      2.260144397880895,
+      48.84290697853592
     ],
     "accessibility": {
       "vision": true,
@@ -3254,8 +3254,8 @@
     "name": "Michel-Ange-Molitor",
     "lineId": "76",
     "geolocation": [
-      48.845056129032,
-      2.261911423279769
+      2.261911423279769,
+      48.845056129032
     ],
     "accessibility": {
       "vision": true,
@@ -3267,8 +3267,8 @@
     "name": "Michel-Ange-Auteuil",
     "lineId": "76",
     "geolocation": [
-      48.847924592785105,
-      2.264235905782418
+      2.264235905782418,
+      48.847924592785105
     ],
     "accessibility": {
       "vision": true,
@@ -3280,8 +3280,8 @@
     "name": "Jasmin",
     "lineId": "76",
     "geolocation": [
-      48.852438519222666,
-      2.26793392300095
+      2.26793392300095,
+      48.852438519222666
     ],
     "accessibility": {
       "vision": true,
@@ -3293,8 +3293,8 @@
     "name": "Ranelagh",
     "lineId": "76",
     "geolocation": [
-      48.85550440300199,
-      2.269959178255765
+      2.269959178255765,
+      48.85550440300199
     ],
     "accessibility": {
       "vision": true,
@@ -3306,8 +3306,8 @@
     "name": "La Muette",
     "lineId": "76",
     "geolocation": [
-      48.85809504968323,
-      2.274096448110612
+      2.274096448110612,
+      48.85809504968323
     ],
     "accessibility": {
       "vision": true,
@@ -3319,8 +3319,8 @@
     "name": "Rue de la Pompe (Avenue Georges Mandel)",
     "lineId": "76",
     "geolocation": [
-      48.864253384403426,
-      2.277916762028845
+      2.277916762028845,
+      48.864253384403426
     ],
     "accessibility": {
       "vision": true,
@@ -3332,8 +3332,8 @@
     "name": "Trocadero",
     "lineId": "76",
     "geolocation": [
-      48.8630891350352,
-      2.286840378494593
+      2.286840378494593,
+      48.8630891350352
     ],
     "accessibility": {
       "vision": true,
@@ -3345,8 +3345,8 @@
     "name": "Iena",
     "lineId": "76",
     "geolocation": [
-      48.864350199647255,
-      2.29404526378309
+      2.29404526378309,
+      48.864350199647255
     ],
     "accessibility": {
       "vision": true,
@@ -3358,8 +3358,8 @@
     "name": "Alma-Marceau",
     "lineId": "76",
     "geolocation": [
-      48.86429867104669,
-      2.301251410449929
+      2.301251410449929,
+      48.86429867104669
     ],
     "accessibility": {
       "vision": true,
@@ -3371,8 +3371,8 @@
     "name": "Franklin-Roosevelt",
     "lineId": "76",
     "geolocation": [
-      48.868812631860955,
-      2.309926324470496
+      2.309926324470496,
+      48.868812631860955
     ],
     "accessibility": {
       "vision": true,
@@ -3384,8 +3384,8 @@
     "name": "Saint-Philippe du Roule",
     "lineId": "76",
     "geolocation": [
-      48.8724706657937,
-      2.310769101230354
+      2.310769101230354,
+      48.8724706657937
     ],
     "accessibility": {
       "vision": true,
@@ -3397,8 +3397,8 @@
     "name": "Miromesnil",
     "lineId": "76",
     "geolocation": [
-      48.87353214061607,
-      2.315578024866189
+      2.315578024866189,
+      48.87353214061607
     ],
     "accessibility": {
       "vision": true,
@@ -3410,8 +3410,8 @@
     "name": "Saint-Augustin",
     "lineId": "76",
     "geolocation": [
-      48.87438676021276,
-      2.320727831964731
+      2.320727831964731,
+      48.87438676021276
     ],
     "accessibility": {
       "vision": true,
@@ -3423,8 +3423,8 @@
     "name": "Havre-Caumartin",
     "lineId": "76",
     "geolocation": [
-      48.873425976534854,
-      2.328970973296564
+      2.328970973296564,
+      48.873425976534854
     ],
     "accessibility": {
       "vision": true,
@@ -3436,8 +3436,8 @@
     "name": "Chaussee d'Antin (La Fayette)",
     "lineId": "76",
     "geolocation": [
-      48.87285998941257,
-      2.333044750926922
+      2.333044750926922,
+      48.87285998941257
     ],
     "accessibility": {
       "vision": true,
@@ -3449,8 +3449,8 @@
     "name": "Richelieu-Drouot",
     "lineId": "76",
     "geolocation": [
-      48.872096123789774,
-      2.339325555856426
+      2.339325555856426,
+      48.872096123789774
     ],
     "accessibility": {
       "vision": true,
@@ -3462,8 +3462,8 @@
     "name": "Grands Boulevards",
     "lineId": "76",
     "geolocation": [
-      48.871511817078165,
-      2.343208377544865
+      2.343208377544865,
+      48.871511817078165
     ],
     "accessibility": {
       "vision": true,
@@ -3475,8 +3475,8 @@
     "name": "Bonne Nouvelle",
     "lineId": "76",
     "geolocation": [
-      48.87049583233104,
-      2.348862117440598
+      2.348862117440598,
+      48.87049583233104
     ],
     "accessibility": {
       "vision": true,
@@ -3488,8 +3488,8 @@
     "name": "Strasbourg-Saint-Denis",
     "lineId": "76",
     "geolocation": [
-      48.869227930987556,
-      2.354529175385818
+      2.354529175385818,
+      48.869227930987556
     ],
     "accessibility": {
       "vision": true,
@@ -3501,8 +3501,8 @@
     "name": "Republique",
     "lineId": "76",
     "geolocation": [
-      48.86741082883539,
-      2.363587825558049
+      2.363587825558049,
+      48.86741082883539
     ],
     "accessibility": {
       "vision": true,
@@ -3514,8 +3514,8 @@
     "name": "Oberkampf",
     "lineId": "76",
     "geolocation": [
-      48.86497429063367,
-      2.3676324115639398
+      2.3676324115639398,
+      48.86497429063367
     ],
     "accessibility": {
       "vision": true,
@@ -3527,8 +3527,8 @@
     "name": "Saint-Ambroise",
     "lineId": "76",
     "geolocation": [
-      48.86164742429928,
-      2.373147140772303
+      2.373147140772303,
+      48.86164742429928
     ],
     "accessibility": {
       "vision": true,
@@ -3540,8 +3540,8 @@
     "name": "Voltaire (Leon Blum)",
     "lineId": "76",
     "geolocation": [
-      48.85766372576006,
-      2.380036296795506
+      2.380036296795506,
+      48.85766372576006
     ],
     "accessibility": {
       "vision": true,
@@ -3553,8 +3553,8 @@
     "name": "Charonne",
     "lineId": "76",
     "geolocation": [
-      48.85464204744478,
-      2.385032193334828
+      2.385032193334828,
+      48.85464204744478
     ],
     "accessibility": {
       "vision": true,
@@ -3566,8 +3566,8 @@
     "name": "Rue des Boulets",
     "lineId": "76",
     "geolocation": [
-      48.8522227131835,
-      2.389115650927187
+      2.389115650927187,
+      48.8522227131835
     ],
     "accessibility": {
       "vision": true,
@@ -3579,8 +3579,8 @@
     "name": "Nation",
     "lineId": "76",
     "geolocation": [
-      48.849010153648216,
-      2.397664612791007
+      2.397664612791007,
+      48.849010153648216
     ],
     "accessibility": {
       "vision": true,
@@ -3592,8 +3592,8 @@
     "name": "Buzenval",
     "lineId": "76",
     "geolocation": [
-      48.851767474505195,
-      2.401181483872644
+      2.401181483872644,
+      48.851767474505195
     ],
     "accessibility": {
       "vision": true,
@@ -3605,8 +3605,8 @@
     "name": "Maraichers",
     "lineId": "76",
     "geolocation": [
-      48.8526004024001,
-      2.406384989566139
+      2.406384989566139,
+      48.8526004024001
     ],
     "accessibility": {
       "vision": true,
@@ -3618,8 +3618,8 @@
     "name": "Porte de Montreuil",
     "lineId": "76",
     "geolocation": [
-      48.85337987781381,
-      2.410458187416353
+      2.410458187416353,
+      48.85337987781381
     ],
     "accessibility": {
       "vision": true,
@@ -3631,8 +3631,8 @@
     "name": "Robespierre",
     "lineId": "76",
     "geolocation": [
-      48.855680808196944,
-      2.423659085483019
+      2.423659085483019,
+      48.855680808196944
     ],
     "accessibility": {
       "vision": true,
@@ -3644,8 +3644,8 @@
     "name": "Croix-de-Chavaux (Jacques Duclos)",
     "lineId": "76",
     "geolocation": [
-      48.857999073258,
-      2.435866895674707
+      2.435866895674707,
+      48.857999073258
     ],
     "accessibility": {
       "vision": true,
@@ -3657,8 +3657,8 @@
     "name": "Mairie de Montreuil",
     "lineId": "76",
     "geolocation": [
-      48.862280986339,
-      2.441827679127713
+      2.441827679127713,
+      48.862280986339
     ],
     "accessibility": {
       "vision": true,
@@ -3670,8 +3670,8 @@
     "name": "Boulogne Pont de Saint-Cloud",
     "lineId": "63",
     "geolocation": [
-      48.84068016312195,
-      2.228313661724341
+      2.228313661724341,
+      48.84068016312195
     ],
     "accessibility": {
       "vision": true,
@@ -3683,8 +3683,8 @@
     "name": "Boulogne-Jean-Jaures",
     "lineId": "63",
     "geolocation": [
-      48.84228014352973,
-      2.238862975367271
+      2.238862975367271,
+      48.84228014352973
     ],
     "accessibility": {
       "vision": true,
@@ -3696,8 +3696,8 @@
     "name": "Porte d'Auteuil",
     "lineId": "63",
     "geolocation": [
-      48.84822598041119,
-      2.257698885660922
+      2.257698885660922,
+      48.84822598041119
     ],
     "accessibility": {
       "vision": true,
@@ -3709,8 +3709,8 @@
     "name": "Javel-Andre-Citroen",
     "lineId": "63",
     "geolocation": [
-      48.84596388048408,
-      2.277815126353771
+      2.277815126353771,
+      48.84596388048408
     ],
     "accessibility": {
       "vision": true,
@@ -3722,8 +3722,8 @@
     "name": "Charles Michels",
     "lineId": "63",
     "geolocation": [
-      48.8463629755008,
-      2.285631065882874
+      2.285631065882874,
+      48.8463629755008
     ],
     "accessibility": {
       "vision": true,
@@ -3735,8 +3735,8 @@
     "name": "Avenue Emile-Zola",
     "lineId": "63",
     "geolocation": [
-      48.846852151949776,
-      2.2954488279344742
+      2.2954488279344742,
+      48.846852151949776
     ],
     "accessibility": {
       "vision": true,
@@ -3748,8 +3748,8 @@
     "name": "La Motte-Picquet-Grenelle",
     "lineId": "63",
     "geolocation": [
-      48.84882126668606,
-      2.297952964025191
+      2.297952964025191,
+      48.84882126668606
     ],
     "accessibility": {
       "vision": true,
@@ -3761,8 +3761,8 @@
     "name": "Segur",
     "lineId": "63",
     "geolocation": [
-      48.84686470206919,
-      2.307268847578926
+      2.307268847578926,
+      48.84686470206919
     ],
     "accessibility": {
       "vision": true,
@@ -3774,8 +3774,8 @@
     "name": "Duroc",
     "lineId": "63",
     "geolocation": [
-      48.846848768895974,
-      2.316937310834085
+      2.316937310834085,
+      48.846848768895974
     ],
     "accessibility": {
       "vision": true,
@@ -3787,8 +3787,8 @@
     "name": "Vaneau",
     "lineId": "63",
     "geolocation": [
-      48.84870084962003,
-      2.321239881938573
+      2.321239881938573,
+      48.84870084962003
     ],
     "accessibility": {
       "vision": true,
@@ -3800,8 +3800,8 @@
     "name": "Sevres-Babylone",
     "lineId": "63",
     "geolocation": [
-      48.85093928843075,
-      2.326114654822284
+      2.326114654822284,
+      48.85093928843075
     ],
     "accessibility": {
       "vision": true,
@@ -3813,8 +3813,8 @@
     "name": "Mabillon",
     "lineId": "63",
     "geolocation": [
-      48.85284513365445,
-      2.335143718516068
+      2.335143718516068,
+      48.85284513365445
     ],
     "accessibility": {
       "vision": true,
@@ -3826,8 +3826,8 @@
     "name": "Odeon",
     "lineId": "63",
     "geolocation": [
-      48.85231488119486,
-      2.338861720336335
+      2.338861720336335,
+      48.85231488119486
     ],
     "accessibility": {
       "vision": true,
@@ -3839,8 +3839,8 @@
     "name": "Cluny-La Sorbonne",
     "lineId": "63",
     "geolocation": [
-      48.85079575570429,
-      2.345030888365225
+      2.345030888365225,
+      48.85079575570429
     ],
     "accessibility": {
       "vision": true,
@@ -3852,8 +3852,8 @@
     "name": "Maubert-Mutualite",
     "lineId": "63",
     "geolocation": [
-      48.849716940163574,
-      2.348925558491872
+      2.348925558491872,
+      48.849716940163574
     ],
     "accessibility": {
       "vision": true,
@@ -3865,8 +3865,8 @@
     "name": "Cardinal-Lemoine",
     "lineId": "63",
     "geolocation": [
-      48.84670586906026,
-      2.351335178972595
+      2.351335178972595,
+      48.84670586906026
     ],
     "accessibility": {
       "vision": true,
@@ -3878,8 +3878,8 @@
     "name": "Jussieu",
     "lineId": "63",
     "geolocation": [
-      48.84576175731147,
-      2.354548594906739
+      2.354548594906739,
+      48.84576175731147
     ],
     "accessibility": {
       "vision": true,
@@ -3891,8 +3891,8 @@
     "name": "Gare d'Austerlitz",
     "lineId": "63",
     "geolocation": [
-      48.84371986136062,
-      2.363916217162712
+      2.363916217162712,
+      48.84371986136062
     ],
     "accessibility": {
       "vision": true,
@@ -3904,8 +3904,8 @@
     "name": "Mairie des Lilas",
     "lineId": "64",
     "geolocation": [
-      48.880051061772676,
-      2.415660206064229
+      2.415660206064229,
+      48.880051061772676
     ],
     "accessibility": {
       "vision": true,
@@ -3917,8 +3917,8 @@
     "name": "Porte des Lilas",
     "lineId": "64",
     "geolocation": [
-      48.87723471669558,
-      2.4065268430480913
+      2.4065268430480913,
+      48.87723471669558
     ],
     "accessibility": {
       "vision": true,
@@ -3930,8 +3930,8 @@
     "name": "Telegraphe",
     "lineId": "64",
     "geolocation": [
-      48.87552244924565,
-      2.398676511144951
+      2.398676511144951,
+      48.87552244924565
     ],
     "accessibility": {
       "vision": true,
@@ -3943,8 +3943,8 @@
     "name": "Place des Fetes",
     "lineId": "64",
     "geolocation": [
-      48.87672946890669,
-      2.393146031767842
+      2.393146031767842,
+      48.87672946890669
     ],
     "accessibility": {
       "vision": true,
@@ -3956,8 +3956,8 @@
     "name": "Jourdain",
     "lineId": "64",
     "geolocation": [
-      48.87524829462498,
-      2.389329434152641
+      2.389329434152641,
+      48.87524829462498
     ],
     "accessibility": {
       "vision": true,
@@ -3969,8 +3969,8 @@
     "name": "Pyrenees",
     "lineId": "64",
     "geolocation": [
-      48.87382117233675,
-      2.384886372197903
+      2.384886372197903,
+      48.87382117233675
     ],
     "accessibility": {
       "vision": true,
@@ -3982,8 +3982,8 @@
     "name": "Belleville",
     "lineId": "64",
     "geolocation": [
-      48.87194579797485,
-      2.3767510413738
+      2.3767510413738,
+      48.87194579797485
     ],
     "accessibility": {
       "vision": true,
@@ -3995,8 +3995,8 @@
     "name": "Goncourt (Hopital Saint-Louis)",
     "lineId": "64",
     "geolocation": [
-      48.87001535524704,
-      2.370768799021465
+      2.370768799021465,
+      48.87001535524704
     ],
     "accessibility": {
       "vision": true,
@@ -4008,8 +4008,8 @@
     "name": "Republique",
     "lineId": "64",
     "geolocation": [
-      48.867240185361254,
-      2.36305644594524
+      2.36305644594524,
+      48.867240185361254
     ],
     "accessibility": {
       "vision": true,
@@ -4021,8 +4021,8 @@
     "name": "Arts-et-Metiers",
     "lineId": "64",
     "geolocation": [
-      48.86538117604685,
-      2.355644931206877
+      2.355644931206877,
+      48.86538117604685
     ],
     "accessibility": {
       "vision": true,
@@ -4034,8 +4034,8 @@
     "name": "Rambuteau",
     "lineId": "64",
     "geolocation": [
-      48.86119339564163,
-      2.353286959870713
+      2.353286959870713,
+      48.86119339564163
     ],
     "accessibility": {
       "vision": true,
@@ -4047,8 +4047,8 @@
     "name": "Hotel de Ville",
     "lineId": "64",
     "geolocation": [
-      48.85780537313629,
-      2.351460776513565
+      2.351460776513565,
+      48.85780537313629
     ],
     "accessibility": {
       "vision": true,
@@ -4060,8 +4060,8 @@
     "name": "Chatelet",
     "lineId": "64",
     "geolocation": [
-      48.858857284381365,
-      2.347769856742684
+      2.347769856742684,
+      48.858857284381365
     ],
     "accessibility": {
       "vision": true,
@@ -4073,8 +4073,8 @@
     "name": "Mairie d'Issy",
     "lineId": "65",
     "geolocation": [
-      48.82434652601842,
-      2.273565829600646
+      2.273565829600646,
+      48.82434652601842
     ],
     "accessibility": {
       "vision": true,
@@ -4086,8 +4086,8 @@
     "name": "Corentin-Celton",
     "lineId": "65",
     "geolocation": [
-      48.82682988739414,
-      2.2789668615743413
+      2.2789668615743413,
+      48.82682988739414
     ],
     "accessibility": {
       "vision": true,
@@ -4099,8 +4099,8 @@
     "name": "Porte de Versailles",
     "lineId": "65",
     "geolocation": [
-      48.832253452749,
-      2.287864137819189
+      2.287864137819189,
+      48.832253452749
     ],
     "accessibility": {
       "vision": true,
@@ -4112,8 +4112,8 @@
     "name": "Convention",
     "lineId": "65",
     "geolocation": [
-      48.83713694956265,
-      2.296396090155559
+      2.296396090155559,
+      48.83713694956265
     ],
     "accessibility": {
       "vision": true,
@@ -4125,8 +4125,8 @@
     "name": "Vaugirard (Adolphe Cherioux)",
     "lineId": "65",
     "geolocation": [
-      48.83943928123955,
-      2.3010780424739252
+      2.3010780424739252,
+      48.83943928123955
     ],
     "accessibility": {
       "vision": true,
@@ -4138,8 +4138,8 @@
     "name": "Volontaires",
     "lineId": "65",
     "geolocation": [
-      48.84141844267774,
-      2.307993649386661
+      2.307993649386661,
+      48.84141844267774
     ],
     "accessibility": {
       "vision": true,
@@ -4151,8 +4151,8 @@
     "name": "Pasteur",
     "lineId": "65",
     "geolocation": [
-      48.8428305421094,
-      2.312663307759113
+      2.312663307759113,
+      48.8428305421094
     ],
     "accessibility": {
       "vision": true,
@@ -4164,8 +4164,8 @@
     "name": "Falguiere",
     "lineId": "65",
     "geolocation": [
-      48.84432338300201,
-      2.317564676180599
+      2.317564676180599,
+      48.84432338300201
     ],
     "accessibility": {
       "vision": true,
@@ -4177,8 +4177,8 @@
     "name": "Montparnasse-Bienvenue",
     "lineId": "65",
     "geolocation": [
-      48.844027636151914,
-      2.323569797217576
+      2.323569797217576,
+      48.844027636151914
     ],
     "accessibility": {
       "vision": true,
@@ -4190,8 +4190,8 @@
     "name": "Notre-Dame des Champs",
     "lineId": "65",
     "geolocation": [
-      48.84478304833005,
-      2.32844448329272
+      2.32844448329272,
+      48.84478304833005
     ],
     "accessibility": {
       "vision": true,
@@ -4203,8 +4203,8 @@
     "name": "Rennes",
     "lineId": "65",
     "geolocation": [
-      48.848198268824774,
-      2.328021748628113
+      2.328021748628113,
+      48.848198268824774
     ],
     "accessibility": {
       "vision": true,
@@ -4216,8 +4216,8 @@
     "name": "Sevres-Babylone",
     "lineId": "65",
     "geolocation": [
-      48.85157746899621,
-      2.326890788342885
+      2.326890788342885,
+      48.85157746899621
     ],
     "accessibility": {
       "vision": true,
@@ -4229,8 +4229,8 @@
     "name": "Rue du Bac",
     "lineId": "65",
     "geolocation": [
-      48.85589133781551,
-      2.325704993899314
+      2.325704993899314,
+      48.85589133781551
     ],
     "accessibility": {
       "vision": true,
@@ -4242,8 +4242,8 @@
     "name": "Solferino",
     "lineId": "65",
     "geolocation": [
-      48.858533359508236,
-      2.323089248787209
+      2.323089248787209,
+      48.858533359508236
     ],
     "accessibility": {
       "vision": true,
@@ -4255,8 +4255,8 @@
     "name": "Assemblee Nationale",
     "lineId": "65",
     "geolocation": [
-      48.86145390429487,
-      2.3203096905073552
+      2.3203096905073552,
+      48.86145390429487
     ],
     "accessibility": {
       "vision": true,
@@ -4268,8 +4268,8 @@
     "name": "Concorde",
     "lineId": "65",
     "geolocation": [
-      48.8654893908901,
-      2.321411789213801
+      2.321411789213801,
+      48.8654893908901
     ],
     "accessibility": {
       "vision": true,
@@ -4281,8 +4281,8 @@
     "name": "Madeleine",
     "lineId": "65",
     "geolocation": [
-      48.8697947152178,
-      2.324612012022265
+      2.324612012022265,
+      48.8697947152178
     ],
     "accessibility": {
       "vision": true,
@@ -4294,8 +4294,8 @@
     "name": "Saint-Lazare",
     "lineId": "65",
     "geolocation": [
-      48.875420977789275,
-      2.326695272071704
+      2.326695272071704,
+      48.875420977789275
     ],
     "accessibility": {
       "vision": true,
@@ -4307,8 +4307,8 @@
     "name": "Trinite-d'Estienne d'Orves",
     "lineId": "65",
     "geolocation": [
-      48.8763290374387,
-      2.331804568510596
+      2.331804568510596,
+      48.8763290374387
     ],
     "accessibility": {
       "vision": true,
@@ -4320,8 +4320,8 @@
     "name": "Notre-Dame de Lorette",
     "lineId": "65",
     "geolocation": [
-      48.876050554237366,
-      2.337908692037609
+      2.337908692037609,
+      48.876050554237366
     ],
     "accessibility": {
       "vision": true,
@@ -4333,8 +4333,8 @@
     "name": "Saint-Georges",
     "lineId": "65",
     "geolocation": [
-      48.878593955236205,
-      2.3378269689170192
+      2.3378269689170192,
+      48.878593955236205
     ],
     "accessibility": {
       "vision": true,
@@ -4346,8 +4346,8 @@
     "name": "Pigalle",
     "lineId": "65",
     "geolocation": [
-      48.88202708962622,
-      2.337213801747862
+      2.337213801747862,
+      48.88202708962622
     ],
     "accessibility": {
       "vision": true,
@@ -4359,8 +4359,8 @@
     "name": "Abbesses",
     "lineId": "65",
     "geolocation": [
-      48.8843997149084,
-      2.338399384171042
+      2.338399384171042,
+      48.8843997149084
     ],
     "accessibility": {
       "vision": true,
@@ -4372,8 +4372,8 @@
     "name": "Lamarck-Caulaincourt",
     "lineId": "65",
     "geolocation": [
-      48.8897381077178,
-      2.339149086674118
+      2.339149086674118,
+      48.8897381077178
     ],
     "accessibility": {
       "vision": true,
@@ -4385,8 +4385,8 @@
     "name": "Jules Joffrin",
     "lineId": "65",
     "geolocation": [
-      48.89249697693026,
-      2.344328410551504
+      2.344328410551504,
+      48.89249697693026
     ],
     "accessibility": {
       "vision": true,
@@ -4398,8 +4398,8 @@
     "name": "Marcadet-Poissonniers",
     "lineId": "65",
     "geolocation": [
-      48.89160682271851,
-      2.349548310988923
+      2.349548310988923,
+      48.89160682271851
     ],
     "accessibility": {
       "vision": true,
@@ -4411,8 +4411,8 @@
     "name": "Marx-Dormoy",
     "lineId": "65",
     "geolocation": [
-      48.890374081221125,
-      2.3597970086706113
+      2.3597970086706113,
+      48.890374081221125
     ],
     "accessibility": {
       "vision": true,
@@ -4424,8 +4424,8 @@
     "name": "Porte de la Chapelle",
     "lineId": "65",
     "geolocation": [
-      48.89795934324147,
-      2.359255069579652
+      2.359255069579652,
+      48.89795934324147
     ],
     "accessibility": {
       "vision": true,
@@ -4437,8 +4437,8 @@
     "name": "Front Populaire",
     "lineId": "65",
     "geolocation": [
-      48.90666658787472,
-      2.365230135854379
+      2.365230135854379,
+      48.90666658787472
     ],
     "accessibility": {
       "vision": true,
@@ -4450,8 +4450,8 @@
     "name": "Chatillon Montrouge",
     "lineId": "66",
     "geolocation": [
-      48.810283363510756,
-      2.3012888709759522
+      2.3012888709759522,
+      48.810283363510756
     ],
     "accessibility": {
       "vision": true,
@@ -4463,8 +4463,8 @@
     "name": "Malakoff-Rue Etienne Dolet",
     "lineId": "66",
     "geolocation": [
-      48.81470406056698,
-      2.297284730170639
+      2.297284730170639,
+      48.81470406056698
     ],
     "accessibility": {
       "vision": true,
@@ -4476,8 +4476,8 @@
     "name": "Malakoff-Plateau de Vanves",
     "lineId": "66",
     "geolocation": [
-      48.8224426939998,
-      2.297932105328727
+      2.297932105328727,
+      48.8224426939998
     ],
     "accessibility": {
       "vision": true,
@@ -4489,8 +4489,8 @@
     "name": "Porte de Vanves",
     "lineId": "66",
     "geolocation": [
-      48.82776532658967,
-      2.30431235076306
+      2.30431235076306,
+      48.82776532658967
     ],
     "accessibility": {
       "vision": true,
@@ -4502,8 +4502,8 @@
     "name": "Plaisance",
     "lineId": "66",
     "geolocation": [
-      48.83175809378841,
-      2.313866549848162
+      2.313866549848162,
+      48.83175809378841
     ],
     "accessibility": {
       "vision": true,
@@ -4515,8 +4515,8 @@
     "name": "Pernety",
     "lineId": "66",
     "geolocation": [
-      48.833933819810916,
-      2.31790897216328
+      2.31790897216328,
+      48.833933819810916
     ],
     "accessibility": {
       "vision": true,
@@ -4528,8 +4528,8 @@
     "name": "Gaite",
     "lineId": "66",
     "geolocation": [
-      48.838751821388634,
-      2.3225091862247123
+      2.3225091862247123,
+      48.838751821388634
     ],
     "accessibility": {
       "vision": true,
@@ -4541,8 +4541,8 @@
     "name": "Montparnasse-Bienvenue",
     "lineId": "66",
     "geolocation": [
-      48.84207702018728,
-      2.321010449555117
+      2.321010449555117,
+      48.84207702018728
     ],
     "accessibility": {
       "vision": true,
@@ -4554,8 +4554,8 @@
     "name": "Duroc",
     "lineId": "66",
     "geolocation": [
-      48.84699250092279,
-      2.3165423447702302
+      2.3165423447702302,
+      48.84699250092279
     ],
     "accessibility": {
       "vision": true,
@@ -4567,8 +4567,8 @@
     "name": "Saint-Francois-Xavier",
     "lineId": "66",
     "geolocation": [
-      48.8509825598235,
-      2.31442986460027
+      2.31442986460027,
+      48.8509825598235
     ],
     "accessibility": {
       "vision": true,
@@ -4580,8 +4580,8 @@
     "name": "Varenne",
     "lineId": "66",
     "geolocation": [
-      48.85639306919846,
-      2.314754364810288
+      2.314754364810288,
+      48.85639306919846
     ],
     "accessibility": {
       "vision": true,
@@ -4593,8 +4593,8 @@
     "name": "Invalides",
     "lineId": "66",
     "geolocation": [
-      48.86085078966753,
-      2.314548112626649
+      2.314548112626649,
+      48.86085078966753
     ],
     "accessibility": {
       "vision": true,
@@ -4606,8 +4606,8 @@
     "name": "Champs-Elysees-Clemenceau",
     "lineId": "66",
     "geolocation": [
-      48.867366570469784,
-      2.314191063393658
+      2.314191063393658,
+      48.867366570469784
     ],
     "accessibility": {
       "vision": true,
@@ -4619,8 +4619,8 @@
     "name": "Miromesnil",
     "lineId": "66",
     "geolocation": [
-      48.87346032551137,
-      2.316041288915063
+      2.316041288915063,
+      48.87346032551137
     ],
     "accessibility": {
       "vision": true,
@@ -4632,8 +4632,8 @@
     "name": "Saint-Lazare",
     "lineId": "66",
     "geolocation": [
-      48.876067814352574,
-      2.3241881007710132
+      2.3241881007710132,
+      48.876067814352574
     ],
     "accessibility": {
       "vision": true,
@@ -4645,8 +4645,8 @@
     "name": "Liege",
     "lineId": "66",
     "geolocation": [
-      48.87953716638082,
-      2.326857947272961
+      2.326857947272961,
+      48.87953716638082
     ],
     "accessibility": {
       "vision": true,
@@ -4658,8 +4658,8 @@
     "name": "Place de Clichy",
     "lineId": "66",
     "geolocation": [
-      48.883203999876585,
-      2.327266024641138
+      2.327266024641138,
+      48.883203999876585
     ],
     "accessibility": {
       "vision": true,
@@ -4671,8 +4671,8 @@
     "name": "La Fourche",
     "lineId": "66",
     "geolocation": [
-      48.8874368425293,
-      2.325725222017408
+      2.325725222017408,
+      48.8874368425293
     ],
     "accessibility": {
       "vision": true,
@@ -4684,8 +4684,8 @@
     "name": "Guy-Moquet",
     "lineId": "66",
     "geolocation": [
-      48.893009056051206,
-      2.327495839490489
+      2.327495839490489,
+      48.893009056051206
     ],
     "accessibility": {
       "vision": true,
@@ -4697,8 +4697,8 @@
     "name": "Porte de Saint-Ouen",
     "lineId": "66",
     "geolocation": [
-      48.89751173277147,
-      2.329021647212208
+      2.329021647212208,
+      48.89751173277147
     ],
     "accessibility": {
       "vision": true,
@@ -4710,8 +4710,8 @@
     "name": "Garibaldi",
     "lineId": "66",
     "geolocation": [
-      48.906382164226436,
-      2.331910473458931
+      2.331910473458931,
+      48.906382164226436
     ],
     "accessibility": {
       "vision": true,
@@ -4723,8 +4723,8 @@
     "name": "Mairie de Saint-Ouen",
     "lineId": "66",
     "geolocation": [
-      48.91162168038383,
-      2.333736964842091
+      2.333736964842091,
+      48.91162168038383
     ],
     "accessibility": {
       "vision": true,
@@ -4736,8 +4736,8 @@
     "name": "Carrefour-Pleyel",
     "lineId": "66",
     "geolocation": [
-      48.9199435050834,
-      2.34390941978589
+      2.34390941978589,
+      48.9199435050834
     ],
     "accessibility": {
       "vision": true,
@@ -4749,8 +4749,8 @@
     "name": "Saint-Denis - Porte de Paris",
     "lineId": "66",
     "geolocation": [
-      48.92992666527093,
-      2.356186149188869
+      2.356186149188869,
+      48.92992666527093
     ],
     "accessibility": {
       "vision": true,
@@ -4762,8 +4762,8 @@
     "name": "Basilique de Saint-Denis",
     "lineId": "66",
     "geolocation": [
-      48.936477492650496,
-      2.359639745304582
+      2.359639745304582,
+      48.936477492650496
     ],
     "accessibility": {
       "vision": true,
@@ -4775,8 +4775,8 @@
     "name": "Saint-Denis-Universite",
     "lineId": "66",
     "geolocation": [
-      48.94611087248738,
-      2.362045192990599
+      2.362045192990599,
+      48.94611087248738
     ],
     "accessibility": {
       "vision": true,
@@ -4788,8 +4788,8 @@
     "name": "Brochant",
     "lineId": "66",
     "geolocation": [
-      48.89062663302413,
-      2.320191121275328
+      2.320191121275328,
+      48.89062663302413
     ],
     "accessibility": {
       "vision": true,
@@ -4801,8 +4801,8 @@
     "name": "Porte de Clichy",
     "lineId": "66",
     "geolocation": [
-      48.894436060297956,
-      2.313565665465226
+      2.313565665465226,
+      48.894436060297956
     ],
     "accessibility": {
       "vision": true,
@@ -4814,8 +4814,8 @@
     "name": "Mairie de Clichy",
     "lineId": "66",
     "geolocation": [
-      48.90400543242958,
-      2.30536812086686
+      2.30536812086686,
+      48.90400543242958
     ],
     "accessibility": {
       "vision": true,
@@ -4827,8 +4827,8 @@
     "name": "Gabriel-Peri",
     "lineId": "66",
     "geolocation": [
-      48.916574835983226,
-      2.29432896468706
+      2.29432896468706,
+      48.916574835983226
     ],
     "accessibility": {
       "vision": true,
@@ -4840,8 +4840,8 @@
     "name": "Les Agnettes",
     "lineId": "66",
     "geolocation": [
-      48.92291633150906,
-      2.285963896576634
+      2.285963896576634,
+      48.92291633150906
     ],
     "accessibility": {
       "vision": true,
@@ -4853,8 +4853,8 @@
     "name": "Asnieres-Gennevilliers Les Courtilles",
     "lineId": "66",
     "geolocation": [
-      48.93029362287076,
-      2.2837606331952482
+      2.2837606331952482,
+      48.93029362287076
     ],
     "accessibility": {
       "vision": true,
@@ -4866,8 +4866,8 @@
     "name": "Saint-Lazare",
     "lineId": "55098",
     "geolocation": [
-      48.8755376703957,
-      2.325196489977427
+      2.325196489977427,
+      48.8755376703957
     ],
     "accessibility": {
       "vision": false,
@@ -4879,8 +4879,8 @@
     "name": "Madeleine",
     "lineId": "55098",
     "geolocation": [
-      48.869578970578424,
-      2.324162488791942
+      2.324162488791942,
+      48.869578970578424
     ],
     "accessibility": {
       "vision": false,
@@ -4892,8 +4892,8 @@
     "name": "Pyramides",
     "lineId": "55098",
     "geolocation": [
-      48.86661383061701,
-      2.334407530948788
+      2.334407530948788,
+      48.86661383061701
     ],
     "accessibility": {
       "vision": false,
@@ -4905,8 +4905,8 @@
     "name": "Chatelet",
     "lineId": "55098",
     "geolocation": [
-      48.85895618133369,
-      2.347361255214262
+      2.347361255214262,
+      48.85895618133369
     ],
     "accessibility": {
       "vision": false,
@@ -4918,8 +4918,8 @@
     "name": "Gare de Lyon",
     "lineId": "55098",
     "geolocation": [
-      48.844652150982945,
-      2.37310814754528
+      2.37310814754528,
+      48.844652150982945
     ],
     "accessibility": {
       "vision": false,
@@ -4931,8 +4931,8 @@
     "name": "Bercy",
     "lineId": "55098",
     "geolocation": [
-      48.840542782965464,
-      2.379409463123068
+      2.379409463123068,
+      48.840542782965464
     ],
     "accessibility": {
       "vision": false,
@@ -4944,8 +4944,8 @@
     "name": "Cour Saint-Emilion",
     "lineId": "55098",
     "geolocation": [
-      48.833520860805514,
-      2.386265236740457
+      2.386265236740457,
+      48.833520860805514
     ],
     "accessibility": {
       "vision": false,
@@ -4957,8 +4957,8 @@
     "name": "Bibliotheque-Francois Mitterrand",
     "lineId": "55098",
     "geolocation": [
-      48.829830695271106,
-      2.376120009344837
+      2.376120009344837,
+      48.829830695271106
     ],
     "accessibility": {
       "vision": false,
@@ -4970,8 +4970,8 @@
     "name": "Olympiades",
     "lineId": "55098",
     "geolocation": [
-      48.82694828196076,
-      2.367038433387592
+      2.367038433387592,
+      48.82694828196076
     ],
     "accessibility": {
       "vision": false,
@@ -4983,8 +4983,8 @@
     "name": "Funiculaire Gare basse",
     "lineId": "79",
     "geolocation": [
-      48.88469617855217,
-      2.342610282962049
+      2.342610282962049,
+      48.88469617855217
     ],
     "accessibility": {
       "vision": false,
@@ -4996,8 +4996,8 @@
     "name": "Funiculaire Gare haute",
     "lineId": "79",
     "geolocation": [
-      48.88557692951087,
-      2.342542235411533
+      2.342542235411533,
+      48.88557692951087
     ],
     "accessibility": {
       "vision": false,
@@ -5009,8 +5009,8 @@
     "name": "Antony",
     "lineId": "455",
     "geolocation": [
-      48.754494893921134,
-      2.3007701500662883
+      2.3007701500662883,
+      48.754494893921134
     ],
     "accessibility": {
       "vision": false,
@@ -5022,8 +5022,8 @@
     "name": "Orly 1-2-3",
     "lineId": "455",
     "geolocation": [
-      48.729564991359986,
-      2.359564239369551
+      2.359564239369551,
+      48.729564991359986
     ],
     "accessibility": {
       "vision": false,
@@ -5035,8 +5035,8 @@
     "name": "Orly 4",
     "lineId": "455",
     "geolocation": [
-      48.7289245757609,
-      2.369359943921722
+      2.369359943921722,
+      48.7289245757609
     ],
     "accessibility": {
       "vision": false,

@@ -37,7 +37,8 @@ metroLines.forEach(line => {
     stations[cleanId(station.id)] = {
       ...station,
       lineId: line.id,
-      geolocation: matchingGeoPosition.fields.stop_coordinates,
+      // LonLat instead of LatLon
+      geolocation: matchingGeoPosition.fields.stop_coordinates.reverse(),
       accessibility: {
         vision: visionDisabilityCompliant,
         mobility: mobilityDisabilityCompliant
