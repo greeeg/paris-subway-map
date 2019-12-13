@@ -35,7 +35,7 @@ stationsWithTransfers.forEach(stationWithTransfers => {
     name,
     geolocation,
     accessibility,
-    stations: stationWithTransfers
+    stations: stationWithTransfers.stations
   };
 
   stationWithTransfers.stations.forEach(id => {
