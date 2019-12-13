@@ -100,7 +100,7 @@ const Map: React.FC = () => {
 
     map.on('moveend', event => {
       const view = event.map.getView();
-      const center = toLonLat(event.map.getView().getCenter());
+      const center = toLonLat(event.map.getView().getCenter() || []);
       const zoom = view.getZoom();
 
       console.log(zoom, center);
