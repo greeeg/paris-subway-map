@@ -4,6 +4,7 @@ const uuidv4 = require('uuid/v4');
 const stations = require('../json/generated/stations.json');
 const lines = require('../json/generated/lines.json');
 const stationsWithTransfers = require('../json/src/stations-with-transfers.json');
+const colors = require('../json/src/colors.json');
 
 const stationsToAdd = { ...stations };
 
@@ -56,6 +57,10 @@ Object.keys(stationsToAdd).forEach(id => {
   };
 
   updateStationId(id, uuid);
+});
+
+Object.keys(unifiedLines).forEach(lineId => {
+  unifiedLines[lineId].color = colors.lines.metro[unifiedLines[lineId].code];
 });
 
 fs.writeFileSync(

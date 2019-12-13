@@ -40,7 +40,6 @@
   },
   "devDependencies": {
     "@hanreev/types-ol": "^3.0.0",
-    "@types/ol": "file:node_modules/@hanreev/types-ol/ol",
     "@types/styled-components": "^4.4.1"
   }
 }
