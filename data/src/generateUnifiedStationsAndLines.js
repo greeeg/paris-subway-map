@@ -3,7 +3,7 @@ const path = require('path');
 const uuidv4 = require('uuid/v4');
 const stations = require('../json/generated/stations.json');
 const lines = require('../json/generated/lines.json');
-const stationsWithTransfers = require('../json/src/stations-with-transfers.json');
+const stationsWithTransfers = require('../json/src/unified-stations.json');
 const colors = require('../json/src/colors.json');
 
 const stationsToAdd = { ...stations };

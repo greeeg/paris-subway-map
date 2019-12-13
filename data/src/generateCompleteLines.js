@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { cleanId } = require('./utils');
-const metroLines = require('../json/src/metro-lines.json');
+const metroLines = require('../json/src/realtime-api/metro-lines.json');
 
 const lines = {};
 

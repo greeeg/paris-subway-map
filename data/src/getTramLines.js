@@ -18,7 +18,7 @@ const query = `{
 request(config.endpoint, query)
   .then(({ lines }) => {
     fs.writeFileSync(
-      path.join('json', 'src', 'tram-lines.json'),
+      path.join('json', 'src', 'realtime-api', 'tram-lines.json'),
       JSON.stringify(lines)
     );
   })

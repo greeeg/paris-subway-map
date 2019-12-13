@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 const { cleanId } = require('./utils');
-const metroLines = require('../json/src/metro-lines.json');
-const geoPositions = require('../json/src/positions-geographiques-des-stations-du-reseau-ratp.json');
-const accessibilityPlaces = require('../json/src/accessibilite-des-gares-et-stations-metro-et-rer-ratp.json');
+const metroLines = require('../json/src/realtime-api/metro-lines.json');
+const geoPositions = require('../json/src/datasets/positions-geographiques-des-stations-du-reseau-ratp.json');
+const accessibilityPlaces = require('../json/src/datasets/accessibilite-des-gares-et-stations-metro-et-rer-ratp.json');
 
 const stations = {};
 
