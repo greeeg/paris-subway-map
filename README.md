@@ -29,7 +29,7 @@
 # Clone the repository
 git clone git@github.com:greeeg/paris-subway-map.git
 
-cd mta-map
+cd paris-subway-map
 
 # Install dependencies
 yarn install
