@@ -5,6 +5,7 @@ import styled from 'styled-components';
 import tileLayer from '../map/tileLayer';
 import linesLayer from '../map/linesLayer';
 import dotsLayer from '../map/dotsLayer';
+import labelsLayer from '../map/labelsLayer';
 import stations from '../data/stations-unified.json';
 import lines from '../data/lines-unified.json';
 import { DEFAULT_CENTER, DEFAULT_ZOOM } from '../config';
@@ -26,7 +27,8 @@ const Map: React.FC = () => {
       layers: [
         tileLayer(),
         linesLayer({ lines, stations }),
-        dotsLayer({ stations })
+        dotsLayer({ stations }),
+        labelsLayer({ stations })
       ],
       view: new ol.View({
         center: fromLonLat(DEFAULT_CENTER),
