@@ -5,7 +5,7 @@ import { Vector as VectorSource } from 'ol/source';
 import { LineString } from 'ol/geom';
 import { Stroke, Style } from 'ol/style';
 import { Layer } from 'ol/layer';
-import { Lines, Stations } from '../types';
+import { Lines, Stations, StationLiaison } from '../types';
 
 interface LinesLayerProps {
   lines: Lines;
@@ -18,33 +18,35 @@ const linesLayer = ({ lines, stations }: LinesLayerProps): Layer => {
       features: Object.keys(lines)
         .map(lineId => {
           const line = lines[lineId];
-          return line.stations.map((stationId: string, index: number) => {
-            if (index === line.stations.length - 1) {
-              return new Feature();
-            }
+          return line.stations.map(
+            (stationLiaison: StationLiaison, index: number) => {
+              if (index === line.stations.length - 1) {
+                return new Feature();
+              }
 
-            const nextStationId = line.stations[index + 1];
-            const station = stations[stationId];
-            const nextStation = stations[nextStationId];
+              const nextStationLiaison = line.stations[index + 1];
+              const station = stations[stationLiaison.uuid];
+              const nextStation = stations[nextStationLiaison.uuid];
 
-            const feature = new Feature({
-              geometry: new LineString([
-                fromLonLat(station.geolocation),
-                fromLonLat(nextStation.geolocation)
-              ])
-            });
+              const feature = new Feature({
+                geometry: new LineString([
+                  fromLonLat(station.geolocation),
+                  fromLonLat(nextStation.geolocation)
+                ])
+              });
 
-            feature.setStyle(
-              new Style({
-                stroke: new Stroke({
-                  color: line.color,
-                  width: 10
+              feature.setStyle(
+                new Style({
+                  stroke: new Stroke({
+                    color: line.color,
+                    width: 10
+                  })
                 })
-              })
-            );
+              );
 
-            return feature;
-          });
+              return feature;
+            }
+          );
         })
         .flat()
     })
