@@ -15,7 +15,10 @@ const updateStationId = (oldId, newId) => {
   Object.keys(unifiedLines).forEach(lineId => {
     unifiedLines[lineId].stations.forEach((stationId, index) => {
       if (stationId === oldId) {
-        unifiedLines[lineId].stations[index] = newId;
+        unifiedLines[lineId].stations[index] = {
+          uuid: newId,
+          id: oldId
+        };
       }
     });
   });

@@ -1,3 +1,8 @@
+export interface StationLiaison {
+  id: string;
+  uuid: string;
+}
+
 export interface Station {
   name: string;
   geolocation: number[];
@@ -13,7 +18,7 @@ export interface Line {
   id: string;
   name: string;
   code: string;
-  stations: string[];
+  stations: StationLiaison[];
   color: string;
 }
 
