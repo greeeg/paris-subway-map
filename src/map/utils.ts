@@ -4,3 +4,7 @@ export const cleanLabel = (label: string): string => {
 
   return first.trim();
 };
+
+export const clamp = (value: number, min: number, max: number): number => {
+  return Math.min(Math.max(value, min), max);
+};

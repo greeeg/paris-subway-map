@@ -16,6 +16,9 @@ const dotsLayer = ({ stations }: DotsLayerProps): Layer => {
       features: Object.keys(stations).map(id => {
         const station = stations[id] as Station;
         const feature = new Feature(new Point(fromLonLat(station.geolocation)));
+        feature.set('station', station);
+        feature.set('type', 'dot');
+
         return feature;
       })
     }),
