@@ -6,6 +6,7 @@ import { Point } from 'ol/geom';
 import { Text, Style } from 'ol/style';
 import { FeatureLike } from 'ol/Feature';
 import { Stations, Station } from '../types';
+import { cleanLabel } from './utils';
 
 interface LabelsLayerProps {
   stations: Stations;
@@ -22,7 +23,7 @@ const getLabelsLayerStyle = (
   const station = feature.get('station') as Station;
   return new Style({
     text: new Text({
-      text: station.name,
+      text: cleanLabel(station.name),
       textAlign: 'left',
       font: 'bold 16px Helvetica',
       offsetX: 10
