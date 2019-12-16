@@ -35,6 +35,7 @@ stationsWithTransfers.forEach(stationWithTransfers => {
   ];
 
   unifiedStations[uuid] = {
+    uuid,
     name,
     geolocation,
     accessibility,
@@ -53,6 +54,7 @@ Object.keys(stationsToAdd).forEach(id => {
   const { name, geolocation, accessibility } = stationsToAdd[id];
 
   unifiedStations[uuid] = {
+    uuid,
     name,
     geolocation,
     accessibility,
