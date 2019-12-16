@@ -1,16 +1,16 @@
 import React, { useEffect } from 'react';
-import * as ol from 'ol';
-import { fromLonLat, toLonLat } from 'ol/proj';
-import { Select } from 'ol/interaction';
 import styled from 'styled-components';
+import { useSelector, useDispatch } from 'react-redux';
+import * as ol from 'ol';
+import { defaults as interactionDefaults } from 'ol/interaction';
+import { Station } from '../types';
+import { StoreState, Dispatch } from '../store';
 import tileLayer from '../map/tileLayer';
 import linesLayer from '../map/linesLayer';
 import dotsLayer from '../map/dotsLayer';
 import labelsLayer from '../map/labelsLayer';
 import stations from '../data/stations-unified.json';
 import lines from '../data/lines-unified.json';
-import { DEFAULT_CENTER, DEFAULT_ZOOM } from '../config';
-import { Station } from '../types';
 
 const MapWrapper = styled.div`
   position: fixed;
@@ -23,8 +23,11 @@ const MapWrapper = styled.div`
 `;
 
 const Map: React.FC = () => {
+  const map = useSelector((state: StoreState) => state.map);
+  const dispatch = useDispatch<Dispatch>();
+
   useEffect(() => {
-    const map = new ol.Map({
+    const olmap = new ol.Map({
       target: 'map',
       layers: [
         tileLayer(),
@@ -33,13 +36,17 @@ const Map: React.FC = () => {
         labelsLayer({ stations })
       ],
       view: new ol.View({
-        center: fromLonLat(DEFAULT_CENTER),
-        zoom: DEFAULT_ZOOM
+        center: map.center,
+        zoom: map.zoom
+      }),
+      interactions: interactionDefaults({
+        altShiftDragRotate: false,
+        pinchRotate: false
       })
     });
 
-    map.on('singleclick', e => {
-      map.forEachFeatureAtPixel(e.pixel, (feature, layer) => {
+    olmap.on('singleclick', e => {
+      olmap.forEachFeatureAtPixel(e.pixel, (feature, layer) => {
         const type = feature.get('type');
         if (type === 'label' || type === 'dot') {
           const station = feature.get('station') as Station;
@@ -48,10 +55,13 @@ const Map: React.FC = () => {
       });
     });
 
-    map.on('moveend', event => {
+    olmap.on('moveend', event => {
       const view = event.map.getView();
-      const center = toLonLat(event.map.getView().getCenter() || []);
-      const zoom = view.getZoom();
+      const center = event.map.getView().getCenter() || [0, 0];
+      const zoom = view.getZoom() as number;
+
+      dispatch.map.setCenter(center);
+      dispatch.map.setZoom(zoom);
     });
   }, []);
 

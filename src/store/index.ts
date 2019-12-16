@@ -1,23 +1,14 @@
-import {
-  init,
-  RematchDispatch,
-  RematchRootState,
-  RematchStore
-} from '@rematch/core';
+import { init, RematchRootState } from '@rematch/core';
 import map from './map';
 
 const models = {
   map
 };
 
-export type AppModels = typeof models;
-export type AppDispatch = RematchDispatch<AppModels>;
-export type AppState = RematchRootState<AppModels>;
+export const store = init({
+  models
+});
 
-export const createStore = function(
-  models: AppModels
-): RematchStore<AppModels> {
-  return init({ models });
-};
-
-export default models;
+export type Store = typeof store;
+export type Dispatch = typeof store.dispatch;
+export type StoreState = RematchRootState<typeof models>;

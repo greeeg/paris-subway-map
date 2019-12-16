@@ -1,14 +1,16 @@
 import React from 'react';
 import { render } from 'react-dom';
+import { Provider } from 'react-redux';
 import { Reset } from 'styled-reset';
 import App from './components/App';
 import * as serviceWorker from './serviceWorker';
+import { store } from './store';
 
 const Root: React.FC = () => (
-  <div>
+  <Provider store={store}>
     <Reset />
     <App />
-  </div>
+  </Provider>
 );
 
 render(<Root />, document.getElementById('root'));
