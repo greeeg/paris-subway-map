@@ -4,6 +4,7 @@ export interface StationLiaison {
 }
 
 export interface Station {
+  uuid: string;
   name: string;
   geolocation: number[];
   accessibility: {
