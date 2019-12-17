@@ -50,8 +50,14 @@ const Map: React.FC = () => {
     olmapRef.current = olmap;
 
     olmap.on('singleclick', e => {
-      olmap.forEachFeatureAtPixel(e.pixel, feature => {
+      const feature = olmap.getFeaturesAtPixel(e.pixel, {
+        layerFilter: () => true,
+        hitTolerance: 0
+      })[0];
+
+      if (feature) {
         const type = feature.get('type');
+
         if (type === 'label' || type === 'dot') {
           const station = feature.get('station') as Station;
           mapDispatch.setSelectedLine(undefined);
@@ -61,7 +67,7 @@ const Map: React.FC = () => {
           mapDispatch.setSelectedLine(line.id);
           mapDispatch.setSelectedStation(undefined);
         }
-      });
+      }
     });
 
     olmap.on('moveend', event => {
@@ -75,21 +81,14 @@ const Map: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    if (!olmapRef.current) {
+    if (!olmapRef.current || !map.selectedStation) {
       return;
     }
 
-    if (!map.selectedStation) {
-      olmapRef.current.getView().animate({
-        center: fromLonLat(DEFAULT_CENTER),
-        zoom: DEFAULT_ZOOM
-      });
-    } else {
-      olmapRef.current.getView().animate({
-        center: fromLonLat(map.stations[map.selectedStation].geolocation),
-        zoom: 16
-      });
-    }
+    olmapRef.current.getView().animate({
+      center: fromLonLat(map.stations[map.selectedStation].geolocation),
+      zoom: 16
+    });
   }, [map.selectedStation]);
 
   useEffect(() => {
