@@ -3,15 +3,16 @@ import styled from 'styled-components';
 import { useSelector, useDispatch } from 'react-redux';
 import * as ol from 'ol';
 import { defaults as interactionDefaults } from 'ol/interaction';
-import { fromLonLat } from 'ol/proj';
+import { fromLonLat, toLonLat } from 'ol/proj';
 import { MultiLineString } from 'ol/geom';
 import { Station, Line } from '../types';
-import { DEFAULT_CENTER, DEFAULT_ZOOM } from '../config';
 import { StoreState, Dispatch } from '../store';
 import tileLayer from '../map/tileLayer';
 import linesLayer from '../map/linesLayer';
 import dotsLayer from '../map/dotsLayer';
 import labelsLayer from '../map/labelsLayer';
+import geolocationLayer from '../map/geolocationLayer';
+import { Layer } from 'ol/layer';
 
 const MapWrapper = styled.div`
   position: fixed;
@@ -29,13 +30,22 @@ const Map: React.FC = () => {
   const { map: mapDispatch } = useDispatch<Dispatch>();
 
   useEffect(() => {
+    const geolocationAPI = new ol.Geolocation({
+      trackingOptions: {
+        enableHighAccuracy: true
+      }
+    });
+
+    geolocationAPI.setTracking(true);
+
     const olmap = new ol.Map({
       target: 'map',
       layers: [
         tileLayer(),
         linesLayer({ lines: map.lines, stations: map.stations }),
         dotsLayer({ stations: map.stations }),
-        labelsLayer({ stations: map.stations })
+        labelsLayer({ stations: map.stations }),
+        geolocationLayer({ geolocation: geolocationAPI })
       ],
       view: new ol.View({
         center: map.center,
@@ -48,6 +58,14 @@ const Map: React.FC = () => {
     });
 
     olmapRef.current = olmap;
+
+    geolocationAPI.setProjection(olmap.getView().getProjection());
+
+    geolocationAPI.on('change:position', () => {
+      const coordinates = geolocationAPI.getPosition() || [];
+      const geolocation = toLonLat(coordinates);
+      mapDispatch.setGeolocation(geolocation);
+    });
 
     olmap.on('singleclick', e => {
       const feature = olmap.getFeaturesAtPixel(e.pixel, {

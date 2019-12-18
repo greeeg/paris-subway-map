@@ -12,6 +12,7 @@ export interface MapState {
   stations: Stations;
   zoom: number;
   center: number[];
+  geolocation?: number[];
 }
 
 export const initialMapState: Readonly<MapState> = {
@@ -46,6 +47,12 @@ const map = createModel({
       return {
         ...state,
         selectedStation
+      };
+    },
+    setGeolocation(state: MapState, geolocation: number[]) {
+      return {
+        ...state,
+        geolocation
       };
     }
   }
