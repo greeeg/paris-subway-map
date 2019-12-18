@@ -433,25 +433,6 @@
       "1873-2269"
     ]
   },
-  "79": {
-    "id": "79",
-    "name": "Funiculaire",
-    "code": "Fun",
-    "stations": [
-      "2090-2551",
-      "2091-2552"
-    ]
-  },
-  "455": {
-    "id": "455",
-    "name": "Orly 4 / Antony-RER",
-    "code": "Orv",
-    "stations": [
-      "22789-22790",
-      "22791-22792",
-      "22793-22794"
-    ]
-  },
   "55098": {
     "id": "55098",
     "name": "Olympiades / Saint-Lazare",

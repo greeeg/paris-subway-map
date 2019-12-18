@@ -2,14 +2,17 @@ const fs = require('fs');
 const path = require('path');
 const { cleanId } = require('./utils');
 const metroLines = require('../json/src/realtime-api/metro-lines.json');
+const linesToDisplay = require('../json/src/lines-to-display.json');
 
 const lines = {};
 
 metroLines.forEach(line => {
-  lines[line.id] = {
-    ...line,
-    stations: line.stations.map(station => cleanId(station.id))
-  };
+  if (linesToDisplay.includes(line.id)) {
+    lines[line.id] = {
+      ...line,
+      stations: line.stations.map(station => cleanId(station.id))
+    };
+  }
 });
 
 fs.writeFileSync(
