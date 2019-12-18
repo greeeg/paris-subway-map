@@ -1,0 +1,43 @@
+{
+  "lines": {
+    "metro": {
+      "1": "M1genRVB.svg",
+      "2": "M2genRVB.svg",
+      "3": "M3genRVB.svg",
+      "3b": "M3bisgenRVB.svg",
+      "4": "M4genRVB.svg",
+      "5": "M5genRVB.svg",
+      "6": "M6genRVB.svg",
+      "7": "M7genRVB.svg",
+      "7b": "M7bisgenRVB.svg",
+      "8": "M8genRVB.svg",
+      "9": "M9genRVB.svg",
+      "10": "M10genRVB.svg",
+      "11": "M11genRVB.svg",
+      "12": "M12genRVB.svg",
+      "13": "M13genRVB.svg",
+      "14": "M14genRVB.svg",
+      "Fun": "funiculaireRVB.svg",
+      "Orv": "OrlyvalRVB.svg"
+    },
+    "rer": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": "",
+      "E": ""
+    },
+    "tram": {
+      "T11": "",
+      "T1": "",
+      "T2": "",
+      "T3a": "",
+      "T3b": "",
+      "T4": "",
+      "T5": "",
+      "T6": "",
+      "T7": "",
+      "T8": ""
+    }
+  }
+}

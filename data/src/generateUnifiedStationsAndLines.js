@@ -5,6 +5,7 @@ const stations = require('../json/generated/stations.json');
 const lines = require('../json/generated/lines.json');
 const stationsWithTransfers = require('../json/src/unified-stations.json');
 const colors = require('../json/src/colors.json');
+const icons = require('../json/src/icons.json');
 
 const stationsToAdd = { ...stations };
 
@@ -66,6 +67,7 @@ Object.keys(stationsToAdd).forEach(id => {
 
 Object.keys(unifiedLines).forEach(lineId => {
   unifiedLines[lineId].color = colors.lines.metro[unifiedLines[lineId].code];
+  unifiedLines[lineId].icon = icons.lines.metro[unifiedLines[lineId].code];
 });
 
 fs.writeFileSync(
@@ -75,5 +77,15 @@ fs.writeFileSync(
 
 fs.writeFileSync(
   path.join('json', 'generated', 'lines-unified.json'),
+  JSON.stringify(unifiedLines, null, 2)
+);
+
+fs.writeFileSync(
+  path.join('..', 'src', 'data', 'stations-unified.json'),
+  JSON.stringify(unifiedStations, null, 2)
+);
+
+fs.writeFileSync(
+  path.join('..', 'src', 'data', 'lines-unified.json'),
   JSON.stringify(unifiedLines, null, 2)
 );
