@@ -21,6 +21,7 @@ export interface Line {
   code: string;
   stations: StationLiaison[];
   color: string;
+  icon: string;
 }
 
 export type Stations = {

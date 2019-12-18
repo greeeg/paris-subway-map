@@ -1,8 +1,15 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
+import styled from 'styled-components';
 import { StoreState, Dispatch } from '../store';
 import Map from './Map';
 import Menu from './Menu';
+import linesToDisplay from '../data/lines-to-display.json';
+
+const Icon = styled.img`
+  width: 40px;
+  height: auto;
+`;
 
 const App: React.FC = () => {
   const map = useSelector((state: StoreState) => state.map);
@@ -16,11 +23,14 @@ const App: React.FC = () => {
     <div>
       <Map />
       <Menu>
-        {!map.selectedLine && (
+        {!map.selectedLine && !map.selectedStation && (
           <div>
-            {Object.keys(map.lines).map(lineId => (
+            {linesToDisplay.map(lineId => (
               <button onClick={() => onSelectLine(lineId)}>
-                {map.lines[lineId].code}
+                <Icon
+                  src={`/assets/icons/${map.lines[lineId].icon}`}
+                  alt={map.lines[lineId].name}
+                />
               </button>
             ))}
           </div>
